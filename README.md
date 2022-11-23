@@ -1,3 +1,3 @@
 # AprendizajeAutomatico
 
-Hecho por Pedro y María
+Hecho por Pedro Bereilh y María Calvo Torres
