@@ -1,0 +1,854 @@
+﻿Year;City;Home Team Name;Home Team Goals;Away Team Goals;Away Team Name
+1930;Montevideo ;France;4;1;Mexico
+1930;Montevideo ;USA;3;0;Belgium
+1930;Montevideo ;Yugoslavia;2;1;Brazil
+1930;Montevideo ;Romania;3;1;Peru
+1930;Montevideo ;Argentina;1;0;France
+1930;Montevideo ;Chile;3;0;Mexico
+1930;Montevideo ;Yugoslavia;4;0;Bolivia
+1930;Montevideo ;USA;3;0;Paraguay
+1930;Montevideo ;Uruguay;1;0;Peru
+1930;Montevideo ;Chile;1;0;France
+1930;Montevideo ;Argentina;6;3;Mexico
+1930;Montevideo ;Brazil;4;0;Bolivia
+1930;Montevideo ;Paraguay;1;0;Belgium
+1930;Montevideo ;Uruguay;4;0;Romania
+1930;Montevideo ;Argentina;3;1;Chile
+1930;Montevideo ;Argentina;6;1;USA
+1930;Montevideo ;Uruguay;6;1;Yugoslavia
+1930;Montevideo ;Uruguay;4;2;Argentina
+1934;Turin ;Austria;3;2;France
+1934;Naples ;Hungary;4;2;Egypt
+1934;Milan ;Switzerland;3;2;Netherlands
+1934;Bologna ;Sweden;3;2;Argentina
+1934;Florence ;Germany;5;2;Belgium
+1934;Genoa ;Spain;3;1;Brazil
+1934;Rome ;Italy;7;1;USA
+1934;Trieste ;Czechoslovakia;2;1;Romania
+1934;Turin ;Czechoslovakia;3;2;Switzerland
+1934;Milan ;Germany;2;1;Sweden
+1934;Florence ;Italy;1;1;Spain
+1934;Bologna ;Austria;2;1;Hungary
+1934;Florence ;Italy;1;0;Spain
+1934;Milan ;Italy;1;0;Austria
+1934;Rome ;Czechoslovakia;3;1;Germany
+1934;Naples ;Germany;3;2;Austria
+1934;Rome ;Italy;2;1;Czechoslovakia
+1938;Paris ;Switzerland;1;1;Germany
+1938;Reims ;Hungary;6;0;Dutch East Indies
+1938;Colombes ;France;3;1;Belgium
+1938;Toulouse ;Cuba;3;3;Romania
+1938;Marseilles ;Italy;2;1;Norway
+1938;Strasbourg ;Brazil;6;5;Poland
+1938;Le Havre ;Czechoslovakia;3;0;Netherlands
+1938;Toulouse ;Cuba;2;1;Romania
+1938;Paris ;Switzerland;4;2;Germany
+1938;Bordeaux ;Brazil;1;1;Czechoslovakia
+1938;Lille ;Hungary;2;0;Switzerland
+1938;Antibes ;Sweden;8;0;Cuba
+1938;Colombes ;Italy;3;1;France
+1938;Bordeaux ;Brazil;2;1;Czechoslovakia
+1938;Paris ;Hungary;5;1;Sweden
+1938;Marseilles ;Italy;2;1;Brazil
+1938;Bordeaux ;Brazil;4;2;Sweden
+1938;Colombes ;Italy;4;2;Hungary
+1950;Rio De Janeiro ;Brazil;4;0;Mexico
+1950;Rio De Janeiro ;England;2;0;Chile
+1950;Curitiba ;Spain;3;1;USA
+1950;Sao Paulo ;Sweden;3;2;Italy
+1950;Belo Horizonte ;Yugoslavia;3;0;Switzerland
+1950;Sao Paulo ;Brazil;2;2;Switzerland
+1950;Porto Alegre ;Yugoslavia;4;1;Mexico
+1950;Rio De Janeiro ;Spain;2;0;Chile
+1950;Curitiba ;Sweden;2;2;Paraguay
+1950;Belo Horizonte ;USA;1;0;England
+1950;Rio De Janeiro ;Brazil;2;0;Yugoslavia
+1950;Rio De Janeiro ;Spain;1;0;England
+1950;Sao Paulo ;Italy;2;0;Paraguay
+1950;Belo Horizonte ;Uruguay;8;0;Bolivia
+1950;Porto Alegre ;Switzerland;2;1;Mexico
+1950;Recife ;Chile;5;2;USA
+1950;Sao Paulo ;Uruguay;2;2;Spain
+1950;Rio De Janeiro ;Brazil;7;1;Sweden
+1950;Rio De Janeiro ;Brazil;6;1;Spain
+1950;Sao Paulo ;Uruguay;3;2;Sweden
+1950;Sao Paulo ;Sweden;3;1;Spain
+1950;Rio De Janeiro ;Uruguay;2;1;Brazil
+1954;Berne ;Uruguay;2;0;Czechoslovakia
+1954;Zurich ;Austria;1;0;Scotland
+1954;Geneva ;Brazil;5;0;Mexico
+1954;Lausanne ;Yugoslavia;1;0;France
+1954;Berne ;Germany FR;4;1;Turkey
+1954;Zurich ;Hungary;9;0;Korea Republic
+1954;Basel ;England;4;4;Belgium
+1954;Lausanne ;Switzerland;2;1;Italy
+1954;Basel ;Uruguay;7;0;Scotland
+1954;Zurich ;Austria;5;0;Czechoslovakia
+1954;Geneva ;France;3;2;Mexico
+1954;Lausanne ;Brazil;1;1;Yugoslavia
+1954;Basel ;Hungary;8;3;Germany FR
+1954;Geneva ;Turkey;7;0;Korea Republic
+1954;Berne ;England;2;0;Switzerland
+1954;Lugano ;Italy;4;1;Belgium
+1954;Zurich ;Germany FR;7;2;Turkey
+1954;Basel ;Switzerland;4;1;Italy
+1954;Basel ;Uruguay;4;2;England
+1954;Lausanne ;Austria;7;5;Switzerland
+1954;Geneva ;Germany FR;2;0;Yugoslavia
+1954;Berne ;Hungary;4;2;Brazil
+1954;Basel ;Germany FR;6;1;Austria
+1954;Lausanne ;Hungary;4;2;Uruguay
+1954;Zurich ;Austria;3;1;Uruguay
+1954;Berne ;Germany FR;3;2;Hungary
+1958;Solna ;Sweden;3;0;Mexico
+1958;Gothenburg ;Soviet Union;2;2;England
+1958;Malmo ;Argentina;1;3;Germany FR
+1958;Sandviken ;Hungary;1;1;Wales
+1958;NorrkoPing ;France;7;3;Paraguay
+1958;Vasteras ;Yugoslavia;1;1;Scotland
+1958;Udevalla ;Brazil;3;0;Austria
+1958;Halmstad ;Northern Ireland;1;0;Czechoslovakia
+1958;Gothenburg ;Brazil;0;0;England
+1958;Solna ;Mexico;1;1;Wales
+1958;NorrkoPing ;Paraguay;3;2;Scotland
+1958;Vasteras ;Yugoslavia;3;2;France
+1958;Boras ;Soviet Union;2;0;Austria
+1958;Helsingborg ;Germany FR;2;2;Czechoslovakia
+1958;Halmstad ;Argentina;3;1;Northern Ireland
+1958;Solna ;Sweden;2;1;Hungary
+1958;Solna ;Sweden;0;0;Wales
+1958;Gothenburg ;Brazil;2;0;Soviet Union
+1958;Malmo ;Germany FR;2;2;Northern Ireland
+1958;Sandviken ;Hungary;4;0;Mexico
+1958;Eskilstuna ;Paraguay;3;3;Yugoslavia
+1958;Orebro ;France;2;1;Scotland
+1958;Boras ;England;2;2;Austria
+1958;Helsingborg ;Czechoslovakia;6;1;Argentina
+1958;Gothenburg ;Soviet Union;1;0;England
+1958;Malmo ;Northern Ireland;2;1;Czechoslovakia
+1958;Solna ;Wales;2;1;Hungary
+1958;Gothenburg ;Brazil;1;0;Wales
+1958;Malmo ;Germany FR;1;0;Yugoslavia
+1958;Solna ;Sweden;2;0;Soviet Union
+1958;NorrkoPing ;France;4;0;Northern Ireland
+1958;Gothenburg ;Sweden;3;1;Germany FR
+1958;Solna ;Brazil;5;2;France
+1958;Gothenburg ;France;6;3;Germany FR
+1958;Solna ;Brazil;5;2;Sweden
+1962;Arica ;Uruguay;2;1;Colombia
+1962;Vina Del Mar ;Brazil;2;0;Mexico
+1962;Rancagua ;Argentina;1;0;Bulgaria
+1962;Santiago De Chile ;Chile;3;1;Switzerland
+1962;Arica ;Soviet Union;2;0;Yugoslavia
+1962;Vina Del Mar ;Czechoslovakia;1;0;Spain
+1962;Rancagua ;Hungary;2;1;England
+1962;Santiago De Chile ;Germany FR;0;0;Italy
+1962;Arica ;Yugoslavia;3;1;Uruguay
+1962;Vina Del Mar ;Brazil;0;0;Czechoslovakia
+1962;Rancagua ;England;3;1;Argentina
+1962;Santiago De Chile ;Chile;2;0;Italy
+1962;Arica ;Soviet Union;4;4;Colombia
+1962;Vina Del Mar ;Spain;1;0;Mexico
+1962;Rancagua ;Hungary;6;1;Bulgaria
+1962;Santiago De Chile ;Germany FR;2;1;Switzerland
+1962;Arica ;Soviet Union;2;1;Uruguay
+1962;Vina Del Mar ;Brazil;2;1;Spain
+1962;Rancagua ;Hungary;0;0;Argentina
+1962;Santiago De Chile ;Germany FR;2;0;Chile
+1962;Arica ;Yugoslavia;5;0;Colombia
+1962;Vina Del Mar ;Mexico;3;1;Czechoslovakia
+1962;Rancagua ;England;0;0;Bulgaria
+1962;Santiago De Chile ;Italy;3;0;Switzerland
+1962;Arica ;Chile;2;1;Soviet Union
+1962;Vina Del Mar ;Brazil;3;1;England
+1962;Rancagua ;Czechoslovakia;1;0;Hungary
+1962;Santiago De Chile ;Yugoslavia;1;0;Germany FR
+1962;Vina Del Mar ;Czechoslovakia;3;1;Yugoslavia
+1962;Santiago De Chile ;Brazil;4;2;Chile
+1962;Santiago De Chile ;Chile;1;0;Yugoslavia
+1962;Santiago De Chile ;Brazil;3;1;Czechoslovakia
+1966;London ;England;0;0;Uruguay
+1966;Sheffield ;Germany FR;5;0;Switzerland
+1966;Liverpool ;Brazil;2;0;Bulgaria
+1966;Middlesbrough ;Soviet Union;3;0;Korea DPR
+1966;London ;France;1;1;Mexico
+1966;Manchester ;Portugal;3;1;Hungary
+1966;Birmingham ;Argentina;2;1;Spain
+1966;Sunderland ;Italy;2;0;Chile
+1966;London ;Uruguay;2;1;France
+1966;Sheffield ;Spain;2;1;Switzerland
+1966;Liverpool ;Hungary;3;1;Brazil
+1966;Middlesbrough ;Korea DPR;1;1;Chile
+1966;Manchester ;Portugal;3;0;Bulgaria
+1966;Birmingham ;Germany FR;0;0;Argentina
+1966;Sunderland ;Soviet Union;1;0;Italy
+1966;London ;England;2;0;Mexico
+1966;London ;Uruguay;0;0;Mexico
+1966;Sheffield ;Argentina;2;0;Switzerland
+1966;Liverpool ;Portugal;3;1;Brazil
+1966;Middlesbrough ;Korea DPR;1;0;Italy
+1966;London ;England;2;0;France
+1966;Manchester ;Hungary;3;1;Bulgaria
+1966;Birmingham ;Germany FR;2;1;Spain
+1966;Sunderland ;Soviet Union;2;1;Chile
+1966;London ;England;1;0;Argentina
+1966;Sheffield ;Germany FR;4;0;Uruguay
+1966;Sunderland ;Soviet Union;2;1;Hungary
+1966;Liverpool ;Portugal;5;3;Korea DPR
+1966;Liverpool ;Germany FR;2;1;Soviet Union
+1966;London ;England;2;1;Portugal
+1966;London ;Portugal;2;1;Soviet Union
+1966;London ;England;4;2;Germany FR
+1970;Mexico City ;Mexico;0;0;Soviet Union
+1970;Puebla ;Uruguay;2;0;Israel
+1970;Leon ;Peru;3;2;Bulgaria
+1970;Guadalajara ;England;1;0;Romania
+1970;Toluca ;Italy;1;0;Sweden
+1970;Leon ;Germany FR;2;1;Morocco
+1970;Guadalajara ;Brazil;4;1;Czechoslovakia
+1970;Mexico City ;Belgium;3;0;El Salvador
+1970;Puebla ;Uruguay;0;0;Italy
+1970;Leon ;Peru;3;0;Morocco
+1970;Guadalajara ;Romania;2;1;Czechoslovakia
+1970;Mexico City ;Soviet Union;4;1;Belgium
+1970;Toluca ;Sweden;1;1;Israel
+1970;Leon ;Germany FR;5;2;Bulgaria
+1970;Guadalajara ;Brazil;1;0;England
+1970;Mexico City ;Mexico;4;0;El Salvador
+1970;Puebla ;Sweden;1;0;Uruguay
+1970;Leon ;Germany FR;3;1;Peru
+1970;Guadalajara ;Brazil;3;2;Romania
+1970;Mexico City ;Soviet Union;2;0;El Salvador
+1970;Toluca ;Italy;0;0;Israel
+1970;Leon ;Bulgaria;1;1;Morocco
+1970;Guadalajara ;England;1;0;Czechoslovakia
+1970;Mexico City ;Mexico;1;0;Belgium
+1970;Toluca ;Italy;4;1;Mexico
+1970;Leon ;Germany FR;3;2;England
+1970;Guadalajara ;Brazil;4;2;Peru
+1970;Mexico City ;Uruguay;1;0;Soviet Union
+1970;Guadalajara ;Brazil;3;1;Uruguay
+1970;Mexico City ;Italy;4;3;Germany FR
+1970;Mexico City ;Germany FR;1;0;Uruguay
+1970;Mexico City ;Brazil;4;1;Italy
+1974;Frankfurt/Main ;Brazil;0;0;Yugoslavia
+1974;Berlin West ;Germany FR;1;0;Chile
+1974;Hamburg ;German DR;2;0;Australia
+1974;Dortmund ;Zaire;0;2;Scotland
+1974;Hanover ;Uruguay;0;2;Netherlands
+1974;DuSseldorf ;Sweden;0;0;Bulgaria
+1974;Munich ;Italy;3;1;Haiti
+1974;Stuttgart ;Poland;3;2;Argentina
+1974;Hamburg ;Australia;0;3;Germany FR
+1974;Frankfurt/Main ;Scotland;0;0;Brazil
+1974;Berlin West ;Chile;1;1;German DR
+1974;Gelsenkirchen ;Yugoslavia;9;0;Zaire
+1974;Dortmund ;Netherlands;0;0;Sweden
+1974;Hanover ;Bulgaria;1;1;Uruguay
+1974;Munich ;Haiti;0;7;Poland
+1974;Stuttgart ;Argentina;1;1;Italy
+1974;Frankfurt/Main ;Scotland;1;1;Yugoslavia
+1974;Berlin West ;Australia;0;0;Chile
+1974;Gelsenkirchen ;Zaire;0;3;Brazil
+1974;Hamburg ;German DR;1;0;Germany FR
+1974;Dortmund ;Bulgaria;1;4;Netherlands
+1974;Munich ;Argentina;4;1;Haiti
+1974;DuSseldorf ;Sweden;3;0;Uruguay
+1974;Stuttgart ;Poland;2;1;Italy
+1974;DuSseldorf ;Yugoslavia;0;2;Germany FR
+1974;Hanover ;Brazil;1;0;German DR
+1974;Gelsenkirchen ;Netherlands;4;0;Argentina
+1974;Stuttgart ;Sweden;0;1;Poland
+1974;Hanover ;Argentina;1;2;Brazil
+1974;Frankfurt/Main ;Poland;2;1;Yugoslavia
+1974;Gelsenkirchen ;German DR;0;2;Netherlands
+1974;DuSseldorf ;Germany FR;4;2;Sweden
+1974;Frankfurt/Main ;Poland;0;1;Germany FR
+1974;Dortmund ;Netherlands;2;0;Brazil
+1974;Gelsenkirchen ;Argentina;1;1;German DR
+1974;DuSseldorf ;Sweden;2;1;Yugoslavia
+1974;Munich ;Brazil;0;1;Poland
+1974;Munich ;Netherlands;1;2;Germany FR
+1978;Buenos Aires ;Germany FR;0;0;Poland
+1978;Mar Del Plata ;Italy;2;1;France
+1978;Rosario ;Tunisia;3;1;Mexico
+1978;Buenos Aires ;Argentina;2;1;Hungary
+1978;Mar Del Plata ;Sweden;1;1;Brazil
+1978;Buenos Aires ;Austria;2;1;Spain
+1978;Cordoba ;Peru;3;1;Scotland
+1978;Mendoza ;Netherlands;3;0;IR Iran
+1978;Mar Del Plata ;Italy;3;1;Hungary
+1978;Rosario ;Poland;1;0;Tunisia
+1978;Cordoba ;Germany FR;6;0;Mexico
+1978;Buenos Aires ;Argentina;2;1;France
+1978;Mar Del Plata ;Brazil;0;0;Spain
+1978;Buenos Aires ;Austria;1;0;Sweden
+1978;Cordoba ;Scotland;1;1;IR Iran
+1978;Mendoza ;Netherlands;0;0;Peru
+1978;Mar Del Plata ;France;3;1;Hungary
+1978;Rosario ;Poland;3;1;Mexico
+1978;Cordoba ;Germany FR;0;0;Tunisia
+1978;Buenos Aires ;Italy;1;0;Argentina
+1978;Mar Del Plata ;Brazil;1;0;Austria
+1978;Buenos Aires ;Spain;1;0;Sweden
+1978;Cordoba ;Peru;4;1;Iran
+1978;Mendoza ;Scotland;3;2;Netherlands
+1978;Buenos Aires ;Germany FR;0;0;Italy
+1978;Cordoba ;Netherlands;5;1;Austria
+1978;Mendoza ;Brazil;3;0;Peru
+1978;Rosario ;Argentina;2;0;Poland
+1978;Mendoza ;Poland;1;0;Peru
+1978;Buenos Aires ;Italy;1;0;Austria
+1978;Cordoba ;Germany FR;2;2;Netherlands
+1978;Rosario ;Argentina;0;0;Brazil
+1978;Buenos Aires ;Netherlands;2;1;Italy
+1978;Cordoba ;Austria;3;2;Germany FR
+1978;Mendoza ;Brazil;3;1;Poland
+1978;Rosario ;Argentina;6;0;Peru
+1978;Buenos Aires ;Brazil;2;1;Italy
+1978;Buenos Aires ;Argentina;3;1;Netherlands
+1982;Barcelona ;Argentina;0;1;Belgium
+1982;Vigo ;Italy;0;0;Poland
+1982;Seville ;Brazil;2;1;Soviet Union
+1982;La CoruñA ;Peru;0;0;Cameroon
+1982;Elche ;Hungary;10;1;El Salvador
+1982;Malaga ;Scotland;5;2;New Zealand
+1982;Gijon ;Germany FR;1;2;Algeria
+1982;Bilbao ;England;3;1;France
+1982;Valencia ;Spain;1;1;Honduras
+1982;Oviedo ;Chile;0;1;Austria
+1982;Valladolid ;Czechoslovakia;1;1;Kuwait
+1982;Zaragoza ;Yugoslavia;0;0;Northern Ireland
+1982;Vigo ;Italy;1;1;Peru
+1982;Alicante ;Argentina;4;1;Hungary
+1982;Seville ;Brazil;4;1;Scotland
+1982;La CoruñA ;Poland;0;0;Cameroon
+1982;Elche ;Belgium;1;0;El Salvador
+1982;Malaga ;Soviet Union;3;0;New Zealand
+1982;Gijon ;Germany FR;4;1;Chile
+1982;Bilbao ;England;2;0;Czechoslovakia
+1982;Valencia ;Spain;2;1;Yugoslavia
+1982;Oviedo ;Algeria;0;2;Austria
+1982;Valladolid ;France;4;1;Kuwait
+1982;Zaragoza ;Honduras;1;1;Northern Ireland
+1982;La CoruñA ;Poland;5;1;Peru
+1982;Elche ;Belgium;1;1;Hungary
+1982;Malaga ;Soviet Union;2;2;Scotland
+1982;Vigo ;Italy;1;1;Cameroon
+1982;Alicante ;Argentina;2;0;El Salvador
+1982;Seville ;Brazil;4;0;New Zealand
+1982;Oviedo ;Algeria;3;2;Chile
+1982;Valladolid ;France;1;1;Czechoslovakia
+1982;Zaragoza ;Honduras;0;1;Yugoslavia
+1982;Gijon ;Germany FR;1;0;Austria
+1982;Bilbao ;England;1;0;Kuwait
+1982;Valencia ;Northern Ireland;1;0;Spain
+1982;Madrid ;Austria;0;1;France
+1982;Barcelona ;Poland;3;0;Belgium
+1982;Barcelona ;Italy;2;1;Argentina
+1982;Madrid ;Germany FR;0;0;England
+1982;Madrid ;Austria;2;2;Northern Ireland
+1982;Barcelona ;Belgium;0;1;Soviet Union
+1982;Barcelona ;Argentina;1;3;Brazil
+1982;Madrid ;Germany FR;2;1;Spain
+1982;Madrid ;France;4;1;Northern Ireland
+1982;Barcelona ;Poland;0;0;Soviet Union
+1982;Barcelona ;Italy;3;2;Brazil
+1982;Madrid ;Spain;0;0;England
+1982;Barcelona ;Poland;0;2;Italy
+1982;Seville ;Germany FR;3;3;France
+1982;Alicante ;Poland;3;2;France
+1982;Madrid ;Italy;3;1;Germany FR
+1986;Mexico City ;Bulgaria;1;1;Italy
+1986;Leon ;Canada;0;1;France
+1986;Guadalajara ;Spain;0;1;Brazil
+1986;Irapuato ;Soviet Union;6;0;Hungary
+1986;Mexico City ;Argentina;3;1;Korea Republic
+1986;Monterrey ;Morocco;0;0;Poland
+1986;Guadalajara ;Algeria;1;1;Northern Ireland
+1986;Mexico City ;Belgium;1;2;Mexico
+1986;Monterrey ;Portugal;1;0;England
+1986;Toluca ;Paraguay;1;0;Iraq
+1986;Nezahualcoyotl ;Scotland;0;1;Denmark
+1986;Queretaro ;Uruguay;1;1;Germany FR
+1986;Puebla ;Italy;1;1;Argentina
+1986;Leon ;France;1;1;Soviet Union
+1986;Mexico City ;Korea Republic;1;1;Bulgaria
+1986;Irapuato ;Hungary;2;0;Canada
+1986;Guadalajara ;Brazil;1;0;Algeria
+1986;Monterrey ;England;0;0;Morocco
+1986;Guadalajara ;Northern Ireland;1;2;Spain
+1986;Mexico City ;Mexico;1;1;Paraguay
+1986;Monterrey ;Poland;1;0;Portugal
+1986;Toluca ;Iraq;1;2;Belgium
+1986;Nezahualcoyotl ;Denmark;6;1;Uruguay
+1986;Queretaro ;Germany FR;2;1;Scotland
+1986;Leon ;Hungary;0;3;France
+1986;Irapuato ;Soviet Union;2;0;Canada
+1986;Puebla ;Korea Republic;2;3;Italy
+1986;Mexico City ;Argentina;2;0;Bulgaria
+1986;Toluca ;Paraguay;2;2;Belgium
+1986;Mexico City ;Iraq;0;1;Mexico
+1986;Guadalajara ;Portugal;1;3;Morocco
+1986;Monterrey ;England;3;0;Poland
+1986;Guadalajara ;Northern Ireland;0;3;Brazil
+1986;Monterrey ;Algeria;0;3;Spain
+1986;Nezahualcoyotl ;Scotland;0;0;Uruguay
+1986;Queretaro ;Denmark;2;0;Germany FR
+1986;Leon ;Soviet Union;3;4;Belgium
+1986;Mexico City ;Mexico;2;0;Bulgaria
+1986;Puebla ;Argentina;1;0;Uruguay
+1986;Guadalajara ;Brazil;4;0;Poland
+1986;Mexico City ;Italy;0;2;France
+1986;Monterrey ;Morocco;0;1;Germany FR
+1986;Mexico City ;England;3;0;Paraguay
+1986;Queretaro ;Denmark;1;5;Spain
+1986;Guadalajara ;Brazil;1;1;France
+1986;Monterrey ;Germany FR;0;0;Mexico
+1986;Puebla ;Spain;1;1;Belgium
+1986;Mexico City ;Argentina;2;1;England
+1986;Guadalajara ;France;0;2;Germany FR
+1986;Mexico City ;Argentina;2;0;Belgium
+1986;Puebla ;France;4;2;Belgium
+1986;Mexico City ;Argentina;3;2;Germany FR
+1990;Milan ;Argentina;0;1;Cameroon
+1990;Bari ;Soviet Union;0;2;Romania
+1990;Bologna ;"rn"">United Arab Emirates";0;2;Colombia
+1990;Rome ;Italy;1;0;Austria
+1990;Florence ;USA;1;5;Czechoslovakia
+1990;Turin ;Brazil;2;1;Sweden
+1990;Milan ;Germany FR;4;1;Yugoslavia
+1990;Genoa ;Costa Rica;1;0;Scotland
+1990;Cagliari ;England;1;1;"rn"">Republic of Ireland"
+1990;Verona ;Belgium;2;0;Korea Republic
+1990;Palermo ;Netherlands;1;1;Egypt
+1990;Udine ;Uruguay;0;0;Spain
+1990;Naples ;Argentina;2;0;Soviet Union
+1990;Bari ;Cameroon;2;1;Romania
+1990;Bologna ;Yugoslavia;1;0;Colombia
+1990;Rome ;Italy;1;0;USA
+1990;Florence ;Austria;0;1;Czechoslovakia
+1990;Milan ;Germany FR;5;1;"rn"">United Arab Emirates"
+1990;Turin ;Brazil;1;0;Costa Rica
+1990;Genoa ;Sweden;1;2;Scotland
+1990;Cagliari ;England;0;0;Netherlands
+1990;Palermo ;"rn"">Republic of Ireland";0;0;Egypt
+1990;Udine ;Korea Republic;1;3;Spain
+1990;Verona ;Belgium;3;1;Uruguay
+1990;Naples ;Argentina;1;1;Romania
+1990;Bari ;Cameroon;0;4;Soviet Union
+1990;Milan ;Germany FR;1;1;Colombia
+1990;Bologna ;Yugoslavia;4;1;"rn"">United Arab Emirates"
+1990;Rome ;Italy;2;0;Czechoslovakia
+1990;Florence ;Austria;2;1;USA
+1990;Turin ;Brazil;1;0;Scotland
+1990;Genoa ;Sweden;1;2;Costa Rica
+1990;Udine ;Korea Republic;0;1;Uruguay
+1990;Verona ;Belgium;1;2;Spain
+1990;Palermo ;"rn"">Republic of Ireland";1;1;Netherlands
+1990;Cagliari ;England;1;0;Egypt
+1990;Naples ;Cameroon;2;1;Colombia
+1990;Bari ;Czechoslovakia;4;1;Costa Rica
+1990;Turin ;Brazil;0;1;Argentina
+1990;Milan ;Germany FR;2;1;Netherlands
+1990;Genoa ;"rn"">Republic of Ireland";0;0;Romania
+1990;Rome ;Italy;2;0;Uruguay
+1990;Verona ;Spain;1;2;Yugoslavia
+1990;Bologna ;England;1;0;Belgium
+1990;Florence ;Yugoslavia;0;0;Argentina
+1990;Rome ;Italy;1;0;"rn"">Republic of Ireland"
+1990;Milan ;Germany FR;1;0;Czechoslovakia
+1990;Naples ;England;3;2;Cameroon
+1990;Naples ;Italy;1;1;Argentina
+1990;Turin ;Germany FR;1;1;England
+1990;Bari ;Italy;2;1;England
+1990;Rome ;Germany FR;1;0;Argentina
+1994;Dallas ;Spain;2;2;Korea Republic
+1994;Chicago ;Germany;1;0;Bolivia
+1994;Detroit ;USA;1;1;Switzerland
+1994;New York/New Jersey ;Italy;0;1;"rn"">Republic of Ireland"
+1994;Los Angeles ;Colombia;1;3;Romania
+1994;Orlando ;Belgium;1;0;Morocco
+1994;Washington Dc ;Norway;1;0;Mexico
+1994;Los Angeles ;Cameroon;2;2;Sweden
+1994;Washington Dc ;Netherlands;2;1;Saudi Arabia
+1994;San Francisco ;Brazil;2;0;Russia
+1994;Boston ;Argentina;4;0;Greece
+1994;Dallas ;Nigeria;3;0;Bulgaria
+1994;Chicago ;Germany;1;1;Spain
+1994;Detroit ;Romania;1;4;Switzerland
+1994;Los Angeles ;USA;2;1;Colombia
+1994;New York/New Jersey ;Italy;1;0;Norway
+1994;Boston ;Korea Republic;0;0;Bolivia
+1994;Orlando ;Mexico;2;1;"rn"">Republic of Ireland"
+1994;Detroit ;Sweden;3;1;Russia
+1994;San Francisco ;Brazil;3;0;Cameroon
+1994;Orlando ;Belgium;1;0;Netherlands
+1994;New York/New Jersey ;Saudi Arabia;2;1;Morocco
+1994;Boston ;Argentina;2;1;Nigeria
+1994;Chicago ;Bulgaria;4;0;Greece
+1994;Los Angeles ;USA;0;1;Romania
+1994;San Francisco ;Switzerland;0;2;Colombia
+1994;Dallas ;Germany;3;2;Korea Republic
+1994;Chicago ;Bolivia;1;3;Spain
+1994;New York/New Jersey ;"rn"">Republic of Ireland";0;0;Norway
+1994;Detroit ;Brazil;1;1;Sweden
+1994;Washington Dc ;Italy;1;1;Mexico
+1994;San Francisco ;Russia;6;1;Cameroon
+1994;Orlando ;Morocco;1;2;Netherlands
+1994;Washington Dc ;Belgium;0;1;Saudi Arabia
+1994;Boston ;Greece;0;2;Nigeria
+1994;Dallas ;Argentina;0;2;Bulgaria
+1994;Chicago ;Germany;3;2;Belgium
+1994;Washington Dc ;Spain;3;0;Switzerland
+1994;Dallas ;Saudi Arabia;1;3;Sweden
+1994;Los Angeles ;Romania;3;2;Argentina
+1994;Orlando ;Netherlands;2;0;"rn"">Republic of Ireland"
+1994;San Francisco ;Brazil;1;0;USA
+1994;Boston ;Nigeria;1;2;Italy
+1994;New York/New Jersey ;Mexico;1;1;Bulgaria
+1994;Boston ;Italy;2;1;Spain
+1994;Dallas ;Netherlands;2;3;Brazil
+1994;New York/New Jersey ;Bulgaria;2;1;Germany
+1994;San Francisco ;Romania;2;2;Sweden
+1994;New York/New Jersey ;Bulgaria;1;2;Italy
+1994;Los Angeles ;Sweden;0;1;Brazil
+1994;Los Angeles ;Sweden;4;0;Bulgaria
+1994;Los Angeles ;Brazil;0;0;Italy
+1998;Saint-Denis ;Brazil;2;1;Scotland
+1998;Montpellier ;Morocco;2;2;Norway
+1998;Bordeaux ;Italy;2;2;Chile
+1998;Toulouse ;Cameroon;1;1;Austria
+1998;Montpellier ;Paraguay;0;0;Bulgaria
+1998;Lens ;Saudi Arabia;0;1;Denmark
+1998;Marseilles ;France;3;0;South Africa
+1998;Nantes ;Spain;2;3;Nigeria
+1998;Lyon ;Korea Republic;1;3;Mexico
+1998;Saint-Denis ;Netherlands;0;0;Belgium
+1998;Toulouse ;Argentina;1;0;Japan
+1998;Saint-Etienne ;Yugoslavia;1;0;Iran
+1998;Lens ;Jamaica;1;3;Croatia
+1998;Marseilles ;England;2;0;Tunisia
+1998;Lyon ;Romania;1;0;Colombia
+1998;Paris ;Germany;2;0;USA
+1998;Bordeaux ;Scotland;1;1;Norway
+1998;Nantes ;Brazil;3;0;Morocco
+1998;Saint-Etienne ;Chile;1;1;Austria
+1998;Montpellier ;Italy;3;0;Cameroon
+1998;Toulouse ;South Africa;1;1;Denmark
+1998;Saint-Denis ;France;4;0;Saudi Arabia
+1998;Paris ;Nigeria;1;0;Bulgaria
+1998;Saint-Etienne ;Spain;0;0;Paraguay
+1998;Nantes ;Japan;0;1;Croatia
+1998;Bordeaux ;Belgium;2;2;Mexico
+1998;Marseilles ;Netherlands;5;0;Korea Republic
+1998;Lens ;Germany;2;2;Yugoslavia
+1998;Paris ;Argentina;5;0;Jamaica
+1998;Lyon ;USA;1;2;Iran
+1998;Montpellier ;Colombia;1;0;Tunisia
+1998;Toulouse ;Romania;2;1;England
+1998;Saint-Denis ;Italy;2;1;Austria
+1998;Nantes ;Chile;1;1;Cameroon
+1998;Saint-Etienne ;Scotland;0;3;Morocco
+1998;Marseilles ;Brazil;1;2;Norway
+1998;Lyon ;France;2;1;Denmark
+1998;Bordeaux ;South Africa;2;2;Saudi Arabia
+1998;Lens ;Spain;6;1;Bulgaria
+1998;Toulouse ;Nigeria;1;3;Paraguay
+1998;Paris ;Belgium;1;1;Korea Republic
+1998;Saint-Etienne ;Netherlands;2;2;Mexico
+1998;Montpellier ;Germany;2;0;Iran
+1998;Nantes ;USA;0;1;Yugoslavia
+1998;Lyon ;Japan;1;2;Jamaica
+1998;Bordeaux ;Argentina;1;0;Croatia
+1998;Saint-Denis ;Romania;1;1;Tunisia
+1998;Lens ;Colombia;0;2;England
+1998;Marseilles ;Italy;1;0;Norway
+1998;Paris ;Brazil;4;1;Chile
+1998;Lens ;France;1;0;Paraguay
+1998;Saint-Denis ;Nigeria;1;4;Denmark
+1998;Montpellier ;Germany;2;1;Mexico
+1998;Toulouse ;Netherlands;2;1;Yugoslavia
+1998;Bordeaux ;Romania;0;1;Croatia
+1998;Saint-Etienne ;Argentina;2;2;England
+1998;Saint-Denis ;Italy;0;0;France
+1998;Nantes ;Brazil;3;2;Denmark
+1998;Marseilles ;Netherlands;2;1;Argentina
+1998;Lyon ;Germany;0;3;Croatia
+1998;Marseilles ;Brazil;1;1;Netherlands
+1998;Saint-Denis ;France;2;1;Croatia
+1998;Paris ;Netherlands;1;2;Croatia
+1998;Saint-Denis ;Brazil;0;3;France
+2002;Seoul ;France;0;1;Senegal
+2002;Ulsan ;Uruguay;1;2;Denmark
+2002;Niigata ;"rn"">Republic of Ireland";1;1;Cameroon
+2002;Sapporo ;Germany;8;0;Saudi Arabia
+2002;Ibaraki ;Argentina;1;0;Nigeria
+2002;Busan ;Paraguay;2;2;South Africa
+2002;Saitama ;England;1;1;Sweden
+2002;Gwangju ;Spain;3;1;Slovenia
+2002;Ulsan ;Brazil;2;1;Turkey
+2002;Sapporo ;Italy;2;0;Ecuador
+2002;Niigata ;Croatia;0;1;Mexico
+2002;Gwangju ;China PR;0;2;Costa Rica
+2002;Saitama ;Japan;2;2;Belgium
+2002;Busan ;Korea Republic;2;0;Poland
+2002;Kobe ;Russia;2;0;Tunisia
+2002;Suwon ;USA;3;2;Portugal
+2002;Ibaraki ;Germany;1;1;"rn"">Republic of Ireland"
+2002;Daegu ;Denmark;1;1;Senegal
+2002;Saitama ;Cameroon;1;0;Saudi Arabia
+2002;Busan ;France;0;0;Uruguay
+2002;Kobe ;Sweden;2;1;Nigeria
+2002;Sapporo ;Argentina;0;1;England
+2002;Jeonju ;Spain;3;1;Paraguay
+2002;Daegu ;South Africa;1;0;Slovenia
+2002;Jeju ;Brazil;4;0;China PR
+2002;Ibaraki ;Italy;1;2;Croatia
+2002;Incheon ;Costa Rica;1;1;Turkey
+2002;Yokohama ;Japan;1;0;Russia
+2002;Rifu ;Mexico;2;1;Ecuador
+2002;Daegu ;Korea Republic;1;1;USA
+2002;Jeonju ;Portugal;4;0;Poland
+2002;Oita ;Tunisia;1;1;Belgium
+2002;Incheon ;Denmark;2;0;France
+2002;Suwon ;Senegal;3;3;Uruguay
+2002;Yokohama ;Saudi Arabia;0;3;"rn"">Republic of Ireland"
+2002;Shizuoka ;Cameroon;0;2;Germany
+2002;Rifu ;Sweden;1;1;Argentina
+2002;Osaka ;Nigeria;0;0;England
+2002;Jeju ;Slovenia;1;3;Paraguay
+2002;Daejeon ;South Africa;2;3;Spain
+2002;Suwon ;Costa Rica;2;5;Brazil
+2002;Seoul ;Turkey;3;0;China PR
+2002;Yokohama ;Ecuador;1;0;Croatia
+2002;Oita ;Mexico;1;1;Italy
+2002;Osaka ;Tunisia;0;2;Japan
+2002;Incheon ;Portugal;0;1;Korea Republic
+2002;Daejeon ;Poland;3;1;USA
+2002;Shizuoka ;Belgium;3;2;Russia
+2002;Niigata ;Denmark;0;3;England
+2002;Jeju ;Germany;1;0;Paraguay
+2002;Suwon ;Spain;1;1;"rn"">Republic of Ireland"
+2002;Oita ;Sweden;1;2;Senegal
+2002;Kobe ;Brazil;2;0;Belgium
+2002;Jeonju ;Mexico;0;2;USA
+2002;Rifu ;Japan;0;1;Turkey
+2002;Daejeon ;Korea Republic;2;1;Italy
+2002;Shizuoka ;England;1;2;Brazil
+2002;Ulsan ;Germany;1;0;USA
+2002;Osaka ;Senegal;0;1;Turkey
+2002;Gwangju ;Spain;0;0;Korea Republic
+2002;Seoul ;Germany;1;0;Korea Republic
+2002;Saitama ;Brazil;1;0;Turkey
+2002;Daegu ;Korea Republic;2;3;Turkey
+2002;Yokohama ;Germany;0;2;Brazil
+2006;Munich ;Germany;4;2;Costa Rica
+2006;Gelsenkirchen ;Poland;0;2;Ecuador
+2006;Frankfurt/Main ;England;1;0;Paraguay
+2006;Dortmund ;"rn"">Trinidad and Tobago";0;0;Sweden
+2006;Hamburg ;Argentina;2;1;Cote d'Ivoire
+2006;Leipzig ;"rn"">Serbia and Montenegro";0;1;Netherlands
+2006;Nuremberg ;Mexico;3;1;Iran
+2006;Cologne ;Angola;0;1;Portugal
+2006;Kaiserslautern ;Australia;3;1;Japan
+2006;Gelsenkirchen ;USA;0;3;Czech Republic
+2006;Hanover ;Italy;2;0;Ghana
+2006;Frankfurt/Main ;Korea Republic;2;1;Togo
+2006;Stuttgart ;France;0;0;Switzerland
+2006;Berlin ;Brazil;1;0;Croatia
+2006;Leipzig ;Spain;4;0;Ukraine
+2006;Munich ;Tunisia;2;2;Saudi Arabia
+2006;Dortmund ;Germany;1;0;Poland
+2006;Hamburg ;Ecuador;3;0;Costa Rica
+2006;Nuremberg ;England;2;0;"rn"">Trinidad and Tobago"
+2006;Berlin ;Sweden;1;0;Paraguay
+2006;Gelsenkirchen ;Argentina;6;0;"rn"">Serbia and Montenegro"
+2006;Stuttgart ;Netherlands;2;1;Cote d'Ivoire
+2006;Hanover ;Mexico;0;0;Angola
+2006;Frankfurt/Main ;Portugal;2;0;IR Iran
+2006;Cologne ;Czech Republic;0;2;Ghana
+2006;Kaiserslautern ;Italy;1;1;USA
+2006;Nuremberg ;Japan;0;0;Croatia
+2006;Munich ;Brazil;2;0;Australia
+2006;Leipzig ;France;1;1;Korea Republic
+2006;Dortmund ;Togo;0;2;Switzerland
+2006;Hamburg ;Saudi Arabia;0;4;Ukraine
+2006;Stuttgart ;Spain;3;1;Tunisia
+2006;Berlin ;Ecuador;0;3;Germany
+2006;Hanover ;Costa Rica;1;2;Poland
+2006;Cologne ;Sweden;2;2;England
+2006;Kaiserslautern ;Paraguay;2;0;"rn"">Trinidad and Tobago"
+2006;Leipzig ;Iran;1;1;Angola
+2006;Gelsenkirchen ;Portugal;2;1;Mexico
+2006;Frankfurt/Main ;Netherlands;0;0;Argentina
+2006;Munich ;Cote d'Ivoire;3;2;"rn"">Serbia and Montenegro"
+2006;Hamburg ;Czech Republic;0;2;Italy
+2006;Nuremberg ;Ghana;2;1;USA
+2006;Dortmund ;Japan;1;4;Brazil
+2006;Stuttgart ;Croatia;2;2;Australia
+2006;Berlin ;Ukraine;1;0;Tunisia
+2006;Kaiserslautern ;Saudi Arabia;0;1;Spain
+2006;Cologne ;Togo;0;2;France
+2006;Hanover ;Switzerland;2;0;Korea Republic
+2006;Munich ;Germany;2;0;Sweden
+2006;Leipzig ;Argentina;2;1;Mexico
+2006;Stuttgart ;England;1;0;Ecuador
+2006;Nuremberg ;Portugal;1;0;Netherlands
+2006;Kaiserslautern ;Italy;1;0;Australia
+2006;Cologne ;Switzerland;0;0;Ukraine
+2006;Dortmund ;Brazil;3;0;Ghana
+2006;Hanover ;Spain;1;3;France
+2006;Berlin ;Germany;1;1;Argentina
+2006;Hamburg ;Italy;3;0;Ukraine
+2006;Gelsenkirchen ;England;0;0;Portugal
+2006;Frankfurt/Main ;Brazil;0;1;France
+2006;Dortmund ;Germany;0;2;Italy
+2006;Munich ;Portugal;0;1;France
+2006;Stuttgart ;Germany;3;1;Portugal
+2006;Berlin ;Italy;1;1;France
+2010;Johannesburg ;South Africa;1;1;Mexico
+2010;Cape Town ;Uruguay;0;0;France
+2010;Nelson Mandela Bay/Port Elizabeth ;Korea Republic;2;0;Greece
+2010;Johannesburg ;Argentina;1;0;Nigeria
+2010;Phokeng ;England;1;1;USA
+2010;Polokwane ;Algeria;0;1;Slovenia
+2010;Tshwane/Pretoria ;Serbia;0;1;Ghana
+2010;Durban ;Germany;4;0;Australia
+2010;Johannesburg ;Netherlands;2;0;Denmark
+2010;Mangaung/Bloemfontein ;Japan;1;0;Cameroon
+2010;Cape Town ;Italy;1;1;Paraguay
+2010;Phokeng ;New Zealand;1;1;Slovakia
+2010;Nelson Mandela Bay/Port Elizabeth ;Cote d'Ivoire;0;0;Portugal
+2010;Johannesburg ;Brazil;2;1;Korea DPR
+2010;Nelspruit ;Honduras;0;1;Chile
+2010;Durban ;Spain;0;1;Switzerland
+2010;Tshwane/Pretoria ;South Africa;0;3;Uruguay
+2010;Johannesburg ;Argentina;4;1;Korea Republic
+2010;Mangaung/Bloemfontein ;Greece;2;1;Nigeria
+2010;Polokwane ;France;0;2;Mexico
+2010;Nelson Mandela Bay/Port Elizabeth ;Germany;0;1;Serbia
+2010;Johannesburg ;Slovenia;2;2;USA
+2010;Cape Town ;England;0;0;Algeria
+2010;Durban ;Netherlands;1;0;Japan
+2010;Phokeng ;Ghana;1;1;Australia
+2010;Tshwane/Pretoria ;Cameroon;1;2;Denmark
+2010;Mangaung/Bloemfontein ;Slovakia;0;2;Paraguay
+2010;Nelspruit ;Italy;1;1;New Zealand
+2010;Johannesburg ;Brazil;3;1;Cote d'Ivoire
+2010;Cape Town ;Portugal;7;0;Korea DPR
+2010;Nelson Mandela Bay/Port Elizabeth ;Chile;1;0;Switzerland
+2010;Johannesburg ;Spain;2;0;Honduras
+2010;Phokeng ;Mexico;0;1;Uruguay
+2010;Mangaung/Bloemfontein ;France;1;2;South Africa
+2010;Durban ;Nigeria;2;2;Korea Republic
+2010;Polokwane ;Greece;0;2;Argentina
+2010;Nelson Mandela Bay/Port Elizabeth ;Slovenia;0;1;England
+2010;Tshwane/Pretoria ;USA;1;0;Algeria
+2010;Johannesburg ;Ghana;0;1;Germany
+2010;Nelspruit ;Australia;2;1;Serbia
+2010;Johannesburg ;Slovakia;3;2;Italy
+2010;Polokwane ;Paraguay;0;0;New Zealand
+2010;Phokeng ;Denmark;1;3;Japan
+2010;Cape Town ;Cameroon;1;2;Netherlands
+2010;Durban ;Portugal;0;0;Brazil
+2010;Nelspruit ;Korea DPR;0;3;Cote d'Ivoire
+2010;Tshwane/Pretoria ;Chile;1;2;Spain
+2010;Mangaung/Bloemfontein ;Switzerland;0;0;Honduras
+2010;Nelson Mandela Bay/Port Elizabeth ;Uruguay;2;1;Korea Republic
+2010;Phokeng ;USA;1;2;Ghana
+2010;Mangaung/Bloemfontein ;Germany;4;1;England
+2010;Johannesburg ;Argentina;3;1;Mexico
+2010;Durban ;Netherlands;2;1;Slovakia
+2010;Johannesburg ;Brazil;3;0;Chile
+2010;Tshwane/Pretoria ;Paraguay;0;0;Japan
+2010;Cape Town ;Spain;1;0;Portugal
+2010;Nelson Mandela Bay/Port Elizabeth ;Netherlands;2;1;Brazil
+2010;Johannesburg ;Uruguay;1;1;Ghana
+2010;Cape Town ;Argentina;0;4;Germany
+2010;Johannesburg ;Paraguay;0;1;Spain
+2010;Cape Town ;Uruguay;2;3;Netherlands
+2010;Durban ;Germany;0;1;Spain
+2010;Nelson Mandela Bay/Port Elizabeth ;Uruguay;2;3;Germany
+2010;Johannesburg ;Netherlands;0;1;Spain
+2014;Sao Paulo ;Brazil;3;1;Croatia
+2014;Natal ;Mexico;1;0;Cameroon
+2014;Salvador ;Spain;1;5;Netherlands
+2014;Cuiaba ;Chile;3;1;Australia
+2014;Belo Horizonte ;Colombia;3;0;Greece
+2014;Fortaleza ;Uruguay;1;3;Costa Rica
+2014;Manaus ;England;1;2;Italy
+2014;Recife ;Cote d'Ivoire;2;1;Japan
+2014;Brasilia ;Switzerland;2;1;Ecuador
+2014;Porto Alegre ;France;3;0;Honduras
+2014;Rio De Janeiro ;Argentina;2;1;"rn"">Bosnia and Herzegovina"
+2014;Salvador ;Germany;4;0;Portugal
+2014;Curitiba ;IR Iran;0;0;Nigeria
+2014;Natal ;Ghana;1;2;USA
+2014;Belo Horizonte ;Belgium;2;1;Algeria
+2014;Fortaleza ;Brazil;0;0;Mexico
+2014;Cuiaba ;Russia;1;1;Korea Republic
+2014;Porto Alegre ;Australia;2;3;Netherlands
+2014;Rio De Janeiro ;Spain;0;2;Chile
+2014;Manaus ;Cameroon;0;4;Croatia
+2014;Brasilia ;Colombia;2;1;Cote d'Ivoire
+2014;Sao Paulo ;Uruguay;2;1;England
+2014;Natal ;Japan;0;0;Greece
+2014;Recife ;Italy;0;1;Costa Rica
+2014;Salvador ;Switzerland;2;5;France
+2014;Curitiba ;Honduras;1;2;Ecuador
+2014;Belo Horizonte ;Argentina;1;0;IR Iran
+2014;Fortaleza ;Germany;2;2;Ghana
+2014;Cuiaba ;Nigeria;1;0;"rn"">Bosnia and Herzegovina"
+2014;Rio De Janeiro ;Belgium;1;0;Russia
+2014;Porto Alegre ;Korea Republic;2;4;Algeria
+2014;Manaus ;USA;2;2;Portugal
+2014;Curitiba ;Australia;0;3;Spain
+2014;Sao Paulo ;Netherlands;2;0;Chile
+2014;Brasilia ;Cameroon;1;4;Brazil
+2014;Recife ;Croatia;1;3;Mexico
+2014;Natal ;Italy;0;1;Uruguay
+2014;Belo Horizonte ;Costa Rica;0;0;England
+2014;Cuiaba ;Japan;1;4;Colombia
+2014;Fortaleza ;Greece;2;1;Cote d'Ivoire
+2014;Porto Alegre ;Nigeria;2;3;Argentina
+2014;Salvador ;"rn"">Bosnia and Herzegovina";3;1;IR Iran
+2014;Manaus ;Honduras;0;3;Switzerland
+2014;Rio De Janeiro ;Ecuador;0;0;France
+2014;Recife ;USA;0;1;Germany
+2014;Brasilia ;Portugal;2;1;Ghana
+2014;Sao Paulo ;Korea Republic;0;1;Belgium
+2014;Curitiba ;Algeria;1;1;Russia
+2014;Belo Horizonte ;Brazil;1;1;Chile
+2014;Rio De Janeiro ;Colombia;2;0;Uruguay
+2014;Brasilia ;France;2;0;Nigeria
+2014;Porto Alegre ;Germany;2;1;Algeria
+2014;Fortaleza ;Brazil;2;1;Colombia
+2014;Rio De Janeiro ;France;0;1;Germany
+2014;Belo Horizonte ;Brazil;1;7;Germany
+2014;Brasilia ;Brazil;0;3;Netherlands
+2014;Rio De Janeiro ;Germany;1;0;Argentina
+2014;Sao Paulo ;Netherlands;0;0;Argentina
+2014;Salvador ;Netherlands;0;0;Costa Rica
+2014;Brasilia ;Argentina;1;0;Belgium
+2014;Fortaleza ;Netherlands;2;1;Mexico
+2014;Recife ;Costa Rica;1;1;Greece
+2014;Sao Paulo ;Argentina;1;0;Switzerland
+2014;Salvador ;Belgium;2;1;USA
+2014;Belo Horizonte ;Brazil;1;1;Chile
+2014;Rio De Janeiro ;Colombia;2;0;Uruguay
+2014;Fortaleza ;Netherlands;2;1;Mexico
+2014;Recife ;Costa Rica;1;1;Greece
+2014;Brasilia ;France;2;0;Nigeria
+2014;Porto Alegre ;Germany;2;1;Algeria
+2014;Sao Paulo ;Argentina;1;0;Switzerland
+2014;Salvador ;Belgium;2;1;USA
+2014;Rio De Janeiro ;France;0;1;Germany
+2014;Fortaleza ;Brazil;2;1;Colombia
+2014;Brasilia ;Argentina;1;0;Belgium
+2014;Salvador ;Netherlands;0;0;Costa Rica
+2014;Belo Horizonte ;Brazil;1;7;Germany
+2014;Sao Paulo ;Netherlands;0;0;Argentina
+2014;Brasilia ;Brazil;0;3;Netherlands
+2014;Rio De Janeiro ;Germany;1;0;Argentina
+
