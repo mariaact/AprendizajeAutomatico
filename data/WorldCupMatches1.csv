@@ -310,7 +310,7 @@
 1982;Barcelona ;Argentina;0;1;Belgium
 1982;Vigo ;Italy;0;0;Poland
 1982;Seville ;Brazil;2;1;Soviet Union
-1982;La CoruñA ;Peru;0;0;Cameroon
+1982;La Coruña ;Peru;0;0;Cameroon
 1982;Elche ;Hungary;10;1;El Salvador
 1982;Malaga ;Scotland;5;2;New Zealand
 1982;Gijon ;Germany FR;1;2;Algeria
@@ -322,7 +322,7 @@
 1982;Vigo ;Italy;1;1;Peru
 1982;Alicante ;Argentina;4;1;Hungary
 1982;Seville ;Brazil;4;1;Scotland
-1982;La CoruñA ;Poland;0;0;Cameroon
+1982;La Coruña ;Poland;0;0;Cameroon
 1982;Elche ;Belgium;1;0;El Salvador
 1982;Malaga ;Soviet Union;3;0;New Zealand
 1982;Gijon ;Germany FR;4;1;Chile
@@ -331,7 +331,7 @@
 1982;Oviedo ;Algeria;0;2;Austria
 1982;Valladolid ;France;4;1;Kuwait
 1982;Zaragoza ;Honduras;1;1;Northern Ireland
-1982;La CoruñA ;Poland;5;1;Peru
+1982;La Coruña ;Poland;5;1;Peru
 1982;Elche ;Belgium;1;1;Hungary
 1982;Malaga ;Soviet Union;2;2;Scotland
 1982;Vigo ;Italy;1;1;Cameroon
@@ -413,13 +413,13 @@
 1986;Mexico City ;Argentina;3;2;Germany FR
 1990;Milan ;Argentina;0;1;Cameroon
 1990;Bari ;Soviet Union;0;2;Romania
-1990;Bologna ;"rn"">United Arab Emirates";0;2;Colombia
+1990;Bologna ;United Arab Emirates;0;2;Colombia
 1990;Rome ;Italy;1;0;Austria
 1990;Florence ;USA;1;5;Czechoslovakia
 1990;Turin ;Brazil;2;1;Sweden
 1990;Milan ;Germany FR;4;1;Yugoslavia
 1990;Genoa ;Costa Rica;1;0;Scotland
-1990;Cagliari ;England;1;1;"rn"">Republic of Ireland"
+1990;Cagliari ;England;1;1;Republic of Ireland
 1990;Verona ;Belgium;2;0;Korea Republic
 1990;Palermo ;Netherlands;1;1;Egypt
 1990;Udine ;Uruguay;0;0;Spain
@@ -428,35 +428,35 @@
 1990;Bologna ;Yugoslavia;1;0;Colombia
 1990;Rome ;Italy;1;0;USA
 1990;Florence ;Austria;0;1;Czechoslovakia
-1990;Milan ;Germany FR;5;1;"rn"">United Arab Emirates"
+1990;Milan ;Germany FR;5;1;United Arab Emirates
 1990;Turin ;Brazil;1;0;Costa Rica
 1990;Genoa ;Sweden;1;2;Scotland
 1990;Cagliari ;England;0;0;Netherlands
-1990;Palermo ;"rn"">Republic of Ireland";0;0;Egypt
+1990;Palermo ;Republic of Ireland;0;0;Egypt
 1990;Udine ;Korea Republic;1;3;Spain
 1990;Verona ;Belgium;3;1;Uruguay
 1990;Naples ;Argentina;1;1;Romania
 1990;Bari ;Cameroon;0;4;Soviet Union
 1990;Milan ;Germany FR;1;1;Colombia
-1990;Bologna ;Yugoslavia;4;1;"rn"">United Arab Emirates"
+1990;Bologna ;Yugoslavia;4;1;United Arab Emirates
 1990;Rome ;Italy;2;0;Czechoslovakia
 1990;Florence ;Austria;2;1;USA
 1990;Turin ;Brazil;1;0;Scotland
 1990;Genoa ;Sweden;1;2;Costa Rica
 1990;Udine ;Korea Republic;0;1;Uruguay
 1990;Verona ;Belgium;1;2;Spain
-1990;Palermo ;"rn"">Republic of Ireland";1;1;Netherlands
+1990;Palermo ;Republic of Ireland;1;1;Netherlands
 1990;Cagliari ;England;1;0;Egypt
 1990;Naples ;Cameroon;2;1;Colombia
 1990;Bari ;Czechoslovakia;4;1;Costa Rica
 1990;Turin ;Brazil;0;1;Argentina
 1990;Milan ;Germany FR;2;1;Netherlands
-1990;Genoa ;"rn"">Republic of Ireland";0;0;Romania
+1990;Genoa ;Republic of Ireland;0;0;Romania
 1990;Rome ;Italy;2;0;Uruguay
 1990;Verona ;Spain;1;2;Yugoslavia
 1990;Bologna ;England;1;0;Belgium
 1990;Florence ;Yugoslavia;0;0;Argentina
-1990;Rome ;Italy;1;0;"rn"">Republic of Ireland"
+1990;Rome ;Italy;1;0;Republic of Ireland
 1990;Milan ;Germany FR;1;0;Czechoslovakia
 1990;Naples ;England;3;2;Cameroon
 1990;Naples ;Italy;1;1;Argentina
@@ -466,7 +466,7 @@
 1994;Dallas ;Spain;2;2;Korea Republic
 1994;Chicago ;Germany;1;0;Bolivia
 1994;Detroit ;USA;1;1;Switzerland
-1994;New York/New Jersey ;Italy;0;1;"rn"">Republic of Ireland"
+1994;New York/New Jersey ;Italy;0;1;Republic of Ireland
 1994;Los Angeles ;Colombia;1;3;Romania
 1994;Orlando ;Belgium;1;0;Morocco
 1994;Washington Dc ;Norway;1;0;Mexico
@@ -480,7 +480,7 @@
 1994;Los Angeles ;USA;2;1;Colombia
 1994;New York/New Jersey ;Italy;1;0;Norway
 1994;Boston ;Korea Republic;0;0;Bolivia
-1994;Orlando ;Mexico;2;1;"rn"">Republic of Ireland"
+1994;Orlando ;Mexico;2;1;Republic of Ireland
 1994;Detroit ;Sweden;3;1;Russia
 1994;San Francisco ;Brazil;3;0;Cameroon
 1994;Orlando ;Belgium;1;0;Netherlands
@@ -491,7 +491,7 @@
 1994;San Francisco ;Switzerland;0;2;Colombia
 1994;Dallas ;Germany;3;2;Korea Republic
 1994;Chicago ;Bolivia;1;3;Spain
-1994;New York/New Jersey ;"rn"">Republic of Ireland";0;0;Norway
+1994;New York/New Jersey ;Republic of Ireland;0;0;Norway
 1994;Detroit ;Brazil;1;1;Sweden
 1994;Washington Dc ;Italy;1;1;Mexico
 1994;San Francisco ;Russia;6;1;Cameroon
@@ -503,7 +503,7 @@
 1994;Washington Dc ;Spain;3;0;Switzerland
 1994;Dallas ;Saudi Arabia;1;3;Sweden
 1994;Los Angeles ;Romania;3;2;Argentina
-1994;Orlando ;Netherlands;2;0;"rn"">Republic of Ireland"
+1994;Orlando ;Netherlands;2;0;Republic of Ireland
 1994;San Francisco ;Brazil;1;0;USA
 1994;Boston ;Nigeria;1;2;Italy
 1994;New York/New Jersey ;Mexico;1;1;Bulgaria
@@ -581,7 +581,7 @@
 1998;Saint-Denis ;Brazil;0;3;France
 2002;Seoul ;France;0;1;Senegal
 2002;Ulsan ;Uruguay;1;2;Denmark
-2002;Niigata ;"rn"">Republic of Ireland";1;1;Cameroon
+2002;Niigata ;Republic of Ireland;1;1;Cameroon
 2002;Sapporo ;Germany;8;0;Saudi Arabia
 2002;Ibaraki ;Argentina;1;0;Nigeria
 2002;Busan ;Paraguay;2;2;South Africa
@@ -595,7 +595,7 @@
 2002;Busan ;Korea Republic;2;0;Poland
 2002;Kobe ;Russia;2;0;Tunisia
 2002;Suwon ;USA;3;2;Portugal
-2002;Ibaraki ;Germany;1;1;"rn"">Republic of Ireland"
+2002;Ibaraki ;Germany;1;1;Republic of Ireland
 2002;Daegu ;Denmark;1;1;Senegal
 2002;Saitama ;Cameroon;1;0;Saudi Arabia
 2002;Busan ;France;0;0;Uruguay
@@ -613,7 +613,7 @@
 2002;Oita ;Tunisia;1;1;Belgium
 2002;Incheon ;Denmark;2;0;France
 2002;Suwon ;Senegal;3;3;Uruguay
-2002;Yokohama ;Saudi Arabia;0;3;"rn"">Republic of Ireland"
+2002;Yokohama ;Saudi Arabia;0;3;Republic of Ireland
 2002;Shizuoka ;Cameroon;0;2;Germany
 2002;Rifu ;Sweden;1;1;Argentina
 2002;Osaka ;Nigeria;0;0;England
@@ -629,7 +629,7 @@
 2002;Shizuoka ;Belgium;3;2;Russia
 2002;Niigata ;Denmark;0;3;England
 2002;Jeju ;Germany;1;0;Paraguay
-2002;Suwon ;Spain;1;1;"rn"">Republic of Ireland"
+2002;Suwon ;Spain;1;1;Republic of Ireland
 2002;Oita ;Sweden;1;2;Senegal
 2002;Kobe ;Brazil;2;0;Belgium
 2002;Jeonju ;Mexico;0;2;USA
@@ -646,9 +646,9 @@
 2006;Munich ;Germany;4;2;Costa Rica
 2006;Gelsenkirchen ;Poland;0;2;Ecuador
 2006;Frankfurt/Main ;England;1;0;Paraguay
-2006;Dortmund ;"rn"">Trinidad and Tobago";0;0;Sweden
+2006;Dortmund ;Trinidad and Tobago;0;0;Sweden
 2006;Hamburg ;Argentina;2;1;Cote d'Ivoire
-2006;Leipzig ;"rn"">Serbia and Montenegro";0;1;Netherlands
+2006;Leipzig ;Serbia and Montenegro;0;1;Netherlands
 2006;Nuremberg ;Mexico;3;1;Iran
 2006;Cologne ;Angola;0;1;Portugal
 2006;Kaiserslautern ;Australia;3;1;Japan
@@ -661,9 +661,9 @@
 2006;Munich ;Tunisia;2;2;Saudi Arabia
 2006;Dortmund ;Germany;1;0;Poland
 2006;Hamburg ;Ecuador;3;0;Costa Rica
-2006;Nuremberg ;England;2;0;"rn"">Trinidad and Tobago"
+2006;Nuremberg ;England;2;0;Trinidad and Tobago
 2006;Berlin ;Sweden;1;0;Paraguay
-2006;Gelsenkirchen ;Argentina;6;0;"rn"">Serbia and Montenegro"
+2006;Gelsenkirchen ;Argentina;6;0;Serbia and Montenegro
 2006;Stuttgart ;Netherlands;2;1;Cote d'Ivoire
 2006;Hanover ;Mexico;0;0;Angola
 2006;Frankfurt/Main ;Portugal;2;0;IR Iran
@@ -678,11 +678,11 @@
 2006;Berlin ;Ecuador;0;3;Germany
 2006;Hanover ;Costa Rica;1;2;Poland
 2006;Cologne ;Sweden;2;2;England
-2006;Kaiserslautern ;Paraguay;2;0;"rn"">Trinidad and Tobago"
+2006;Kaiserslautern ;Paraguay;2;0;Trinidad and Tobago
 2006;Leipzig ;Iran;1;1;Angola
 2006;Gelsenkirchen ;Portugal;2;1;Mexico
 2006;Frankfurt/Main ;Netherlands;0;0;Argentina
-2006;Munich ;Cote d'Ivoire;3;2;"rn"">Serbia and Montenegro"
+2006;Munich ;Cote d'Ivoire;3;2;Serbia and Montenegro
 2006;Hamburg ;Czech Republic;0;2;Italy
 2006;Nuremberg ;Ghana;2;1;USA
 2006;Dortmund ;Japan;1;4;Brazil
@@ -781,7 +781,7 @@
 2014;Recife ;Cote d'Ivoire;2;1;Japan
 2014;Brasilia ;Switzerland;2;1;Ecuador
 2014;Porto Alegre ;France;3;0;Honduras
-2014;Rio De Janeiro ;Argentina;2;1;"rn"">Bosnia and Herzegovina"
+2014;Rio De Janeiro ;Argentina;2;1;Bosnia and Herzegovina
 2014;Salvador ;Germany;4;0;Portugal
 2014;Curitiba ;IR Iran;0;0;Nigeria
 2014;Natal ;Ghana;1;2;USA
@@ -799,7 +799,7 @@
 2014;Curitiba ;Honduras;1;2;Ecuador
 2014;Belo Horizonte ;Argentina;1;0;IR Iran
 2014;Fortaleza ;Germany;2;2;Ghana
-2014;Cuiaba ;Nigeria;1;0;"rn"">Bosnia and Herzegovina"
+2014;Cuiaba ;Nigeria;1;0;Bosnia and Herzegovina
 2014;Rio De Janeiro ;Belgium;1;0;Russia
 2014;Porto Alegre ;Korea Republic;2;4;Algeria
 2014;Manaus ;USA;2;2;Portugal
@@ -812,7 +812,7 @@
 2014;Cuiaba ;Japan;1;4;Colombia
 2014;Fortaleza ;Greece;2;1;Cote d'Ivoire
 2014;Porto Alegre ;Nigeria;2;3;Argentina
-2014;Salvador ;"rn"">Bosnia and Herzegovina";3;1;IR Iran
+2014;Salvador ;Bosnia and Herzegovina;3;1;IR Iran
 2014;Manaus ;Honduras;0;3;Switzerland
 2014;Rio De Janeiro ;Ecuador;0;0;France
 2014;Recife ;USA;0;1;Germany
@@ -851,4 +851,3 @@
 2014;Sao Paulo ;Netherlands;0;0;Argentina
 2014;Brasilia ;Brazil;0;3;Netherlands
 2014;Rio De Janeiro ;Germany;1;0;Argentina
-
