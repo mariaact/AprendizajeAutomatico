@@ -25,7 +25,7 @@ public class Modelo {
 
     private Instances leerInstancias(String ficherArff){
         try{
-            Instances inst = new Instances(new BufferedReader(new FileReader("./training_data/iris.arff")));
+            Instances inst = new Instances(new BufferedReader(new FileReader("./training_data/wc.arff")));
             inst.setClassIndex(inst.numAttributes() - 1);
 
             return inst;
@@ -42,11 +42,11 @@ public class Modelo {
             Classifier cls = new J48();
 
             // train
-            Instances inst = leerInstancias("./training_data/iris.arff");
+            Instances inst = leerInstancias("./training_data/wc.arff");
             cls.buildClassifier(inst);
 
             // serialize model
-            ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("./models/objetoJ48Iris.model"));
+            ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("./models/objetoJ48Wc.model"));
             oos.writeObject(cls);
             oos.flush();
             oos.close();
@@ -58,8 +58,8 @@ public class Modelo {
 
     public String aplicarModelo() {
         try{
-            String[] valoresAtributos = {"Iris-setosa", "Iris-versicolor", "Iris-virginica"};
-            Classifier clasificador  = (Classifier) weka.core.SerializationHelper.read("./models/objetoJ48Iris.model");
+            String[] valoresAtributos = {"1930","1934","1938","1942","1946","1950","1954","1958","1962","1966","1970","1974","1978","1982","1986","1990","1994","1998","2002","2006","2010","2014"};
+            Classifier clasificador  = (Classifier) weka.core.SerializationHelper.read("./models/objetoJ48Wc.model");
             Instances data = leerInstancias("./test_data/test.arff");
             return valoresAtributos[(int) clasificador.classifyInstance(data.instance(0))];
         }catch (Exception ex) {

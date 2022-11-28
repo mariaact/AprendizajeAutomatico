@@ -1,13 +1,10 @@
-@RELATION test 
+@relation test
 
-@ATTRIBUTE sepallength	REAL
-@ATTRIBUTE sepalwidth 	REAL
-@ATTRIBUTE petallength 	REAL
-@ATTRIBUTE petalwidth	REAL
-@ATTRIBUTE class 	{Iris-setosa,Iris-versicolor,Iris-virginica}
+@attribute HomeTeamName {France,USA,Yugoslavia,Romania,Argentina,Chile,Uruguay,Brazil,Paraguay,Austria,Hungary,Switzerland,Sweden,Germany,Spain,Italy,Czechoslovakia,Cuba,England,Germany-FR,Turkey,Soviet-Union,Northern-Ireland,Mexico,Wales,Portugal,Korea-DPR,Peru,Belgium,Bulgaria,German-DR,Zaire,Poland,Australia,Scotland,Netherlands,Haiti,Tunisia,Algeria,Honduras,Canada,Morocco,Korea-Republic,Iraq,Denmark,United-Arab-Emirates,Costa-Rica,Cameroon,Republic-of-Ireland,Colombia,Norway,Nigeria,Saudi-Arabia,Bolivia,Russia,Greece,Jamaica,South-Africa,Japan,Croatia,China-PR,Senegal,Slovenia,Ecuador,Trinidad-and-Tobago,Serbia-and-Montenegro,Angola,Czech-Republic,Togo,Iran,Costa-de-Marfil,Ghana,Ukraine,Serbia,New-Zealand,Slovakia,IR-Iran,Bosnia-and-Herzegovina}
+@attribute HomeTeamGoals numeric
+@attribute AwayTeamGoals numeric
+@attribute AwayTeamName {Mexico,Belgium,Brazil,Peru,France,Bolivia,Paraguay,Romania,Chile,USA,Yugoslavia,Argentina,Egypt,Netherlands,Switzerland,Sweden,Spain,Hungary,Austria,Germany,Czechoslovakia,Dutch-East-Indies,Norway,Poland,Cuba,Italy,England,Scotland,Turkey,Korea-Republic,Germany-FR,Uruguay,Wales,Northern-Ireland,Soviet-Union,Colombia,Bulgaria,Korea-DPR,Portugal,Israel,Morocco,El-Salvador,Australia,Haiti,German-DR,Zaire,IR-Iran,Tunisia,Iran,Cameroon,New-Zealand,Algeria,Honduras,Kuwait,Iraq,Denmark,Canada,Republic-of-Ireland,United-Arab-Emirates,Costa-Rica,Saudi-Arabia,Russia,Greece,Nigeria,South-Africa,Japan,Croatia,Jamaica,Senegal,Slovenia,Ecuador,China-PR,Costa-de-Marfil,Czech-Republic,Ghana,Togo,Ukraine,Trinidad-and-Tobago,Serbia-and-Montenegro,Angola,Slovakia,Serbia,Bosnia-and-Herzegovina}
+@attribute Year {1930,1934,1938,1942,1946,1950,1954,1958,1962,1966,1970,1974,1978,1982,1986,1990,1994,1998,2002,2006,2010,2014}
 
 @DATA
-5.8,2.7,3.9,1.2,?
-%
-%
-%
+Italy,3,1,France,?
