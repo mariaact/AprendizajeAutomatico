@@ -19,7 +19,7 @@ public class Principal{
     public static void main(String[] args) {
         Modelo modelo = new Modelo();
         modelo.aprenderModelo();
-        System.out.println("El clasificador con J48 obtiene: " + modelo.aplicarModelo());
+        System.out.println("El clasificador con LMT obtiene: " + modelo.aplicarModelo());
     }
 
 }
