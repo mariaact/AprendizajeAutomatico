@@ -25,7 +25,7 @@ public class Modelo {
 
     private Instances leerInstancias(String ficherArff){
         try{
-            Instances inst = new Instances(new BufferedReader(new FileReader("./training_data/cars.arff")));
+            Instances inst = new Instances(new BufferedReader(new FileReader(ficherArff)));
             inst.setClassIndex(inst.numAttributes() - 1);
 
             return inst;
