@@ -44,7 +44,7 @@ Para comprobar otra consulta devolviendo otro pais, podemos cambiar este fichero
  
 La respuesta de la query deberia dar: 
 
-![](/images/result.png)
+![](/images/result1.png)
 
 
 ## Algoritmo RandomForest
