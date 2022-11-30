@@ -1,6 +1,5 @@
 @relation cars
 
-@attribute Car {'Chevrolet Chevelle Malibu','Buick Skylark 320','Plymouth Satellite','AMC Rebel SST','Ford Torino','Ford Galaxie 500','Chevrolet Impala','Plymouth Fury iii','Pontiac Catalina','AMC Ambassador DPL','Citroen DS-21 Pallas','Chevrolet Chevelle Concours (sw)','Ford Torino (sw)','Plymouth Satellite (sw)','AMC Rebel SST (sw)','Dodge Challenger SE','Plymouth \'Cuda 340','Ford Mustang Boss 302','Chevrolet Monte Carlo','Buick Estate Wagon (sw)','Toyota Corolla Mark ii','Plymouth Duster','AMC Hornet','Ford Maverick','Datsun PL510','Volkswagen 1131 Deluxe Sedan','Peugeot 504','Audi 100 LS','Saab 99e','BMW 2002','AMC Gremlin','Ford F250','Chevy C20','Dodge D200','Hi 1200D','Chevrolet Vega 2300','Toyota Corolla','Ford Pinto','Volkswagen Super Beetle 117','Plymouth Satellite Custom','Ford Torino 500','AMC Matador','Pontiac Catalina Brougham','Dodge Monaco (sw)','Ford Country Squire (sw)','Pontiac Safari (sw)','AMC Hornet Sportabout (sw)','Chevrolet Vega (sw)','Pontiac Firebird','Ford Mustang','Mercury Capri 2000','Opel 1900','Peugeot 304','Fiat 124B','Toyota Corolla 1200','Datsun 1200','Volkswagen Model 111','Plymouth Cricket','Toyota Corolla Hardtop','Dodge Colt Hardtop','Volkswagen Type 3','Chevrolet Vega','Ford Pinto Runabout','Plymouth Fury III','AMC Ambassador SST','Mercury Marquis','Buick LeSabre Custom','Oldsmobile Delta 88 Royale','Chrysler Newport Royal','Mazda RX2 Coupe','AMC Matador (sw)','Ford Gran Torino (sw)','Plymouth Satellite Custom (sw)','Volvo 145e (sw)','Volkswagen 411 (sw)','Peugeot 504 (sw)','Renault 12 (sw)','Ford Pinto (sw)','Datsun 510 (sw)','Toyota Corolla Mark II (sw)','Dodge Colt (sw)','Toyota Corolla 1600 (sw)','Buick Century 350','Chevrolet Malibu','Ford Gran Torino','Dodge Coronet Custom','Mercury Marquis Brougham','Chevrolet Caprice Classic','Ford LTD','Plymouth Fury Gran Sedan','Chrysler New Yorker Brougham','Buick Electra 225 Custom','AMC Ambassador Brougham','Plymouth Valiant','Chevrolet Nova Custom','Volkswagen Super Beetle','Ford Country','Plymouth Custom Suburb','Oldsmobile Vista Cruiser','Toyota Camry','Datsun 610','Mazda RX3','Mercury Capri v6','Fiat 124 Sport Coupe','Chevrolet Monte Carlo S','Pontiac Grand Prix','Fiat 128','Opel Manta','Audi 100LS','Volvo 144ea','Dodge Dart Custom','Saab 99le','Toyota Mark II','Oldsmobile Omega','Chevrolet Nova','Datsun B210','Chevrolet Chevelle Malibu Classic','Plymouth Satellite Sebring','Buick Century Luxus (sw)','Dodge Coronet Custom (sw)','Audi Fox','Volkswagen Dasher','Datsun 710','Dodge Colt','Fiat 124 TC','Honda Civic',Subaru,'Fiat x1.9','Plymouth Valiant Custom','Mercury Monarch','Chevrolet Bel Air','Plymouth Grand Fury','Buick Century','Chevrolete Chevelle Malibu','Plymouth Fury','Buick Skyhawk','Chevrolet Monza 2+2','Ford Mustang II','Pontiac Astro','Volkswagen Rabbit','AMC Pacer','Volvo 244DL','Saab 99LE','Honda Civic CVCC','Fiat 131','Capri ii','Renault 12tl','Dodge Coronet Brougham','Chevrolet Chevette','Chevrolet Woody','Dodge Aspen SE','Ford Grenada ghia','Pontiac Ventura SJ','AMC Pacer d/l','Datsun B-210','Volvo 245','Plymouth Volare Premier v8','Mercedes-Benz 280s','Cadillac Seville','Chevrolet C10','Ford F108','Dodge D100','Honda Accord CVCC','Buick Opel Isuzu Deluxe','Renault 5 GTL','Plymouth Arrow GS','Datsun F-10 Hatchback','Oldsmobile Cutlass Supreme','Dodge Monaco Brougham','Mercury Cougar Brougham','Chevrolet Concours','Buick Skylark','Plymouth Volare Custom','Ford Grenada','Pontiac Grand Prix LJ','Chevrolet Monte Carlo Landau','Chrysler Cordoba','Ford Thunderbird','Volkswagen Rabbit Custom','Pontiac Sunbird Coupe','Toyota Corolla Liftback','Ford Mustang II 2+2','Dodge Colt m/m','Subaru DL','Datsun 810','BMW 320i','Mazda RX-4','Volkswagen Rabbit Custom Diesel','Ford Fiesta','Mazda GLC Deluxe','Datsun B210 GX','Oldsmobile Cutlass Salon Brougham','Dodge Diplomat','Mercury Monarch ghia','Pontiac Phoenix LJ','Ford Fairmont (auto)','Ford Fairmont (man)','Plymouth Volare','AMC Concord','Buick Century Special','Mercury Zephyr','Dodge Aspen','AMC Concord d/l','Buick Regal Sport Coupe (turbo)','Ford Futura','Dodge Magnum XE','Datsun 510','Dodge Omni','Toyota Celica GT Liftback','Plymouth Sapporo','Oldsmobile Starfire SX','Datsun 200-SX','Audi 5000','Volvo 264gl','Saab 99gle','Peugeot 604sl','Volkswagen Scirocco','Honda Accord LX','Pontiac Lemans V6','Mercury Zephyr 6','Ford Fairmont 4','AMC Concord DL 6','Dodge Aspen 6','Ford LTD Landau','Mercury Grand Marquis','Dodge St. Regis','Chevrolet Malibu Classic (sw)','Chrysler Lebaron Town @ Country (sw)','Dodge Colt Hatchback Custom','AMC Spirit DL','Mercedes Benz 300d','Cadillac Eldorado','Plymouth Horizon','Plymouth Horizon TC3','Datsun 210','Fiat Strada Custom','Buick Skylark Limited','Chevrolet Citation','Oldsmobile Omega Brougham','Pontiac Phoenix','Toyota Corolla Tercel','Datsun 310','Ford Fairmont','Audi 4000','Mazda 626','Datsun 510 Hatchback','Mazda GLC','Volkswagen Rabbit C (Diesel)','Volkswagen Dasher (diesel)','Audi 5000s (diesel)','Mercedes-Benz 240d','Honda Civic 1500 gl','Renault Lecar Deluxe','Datsun 280-ZX','Mazda RX-7 GS','Triumph TR7 Coupe','Ford Mustang Cobra','Honda Accord','Plymouth Reliant','Dodge Aries Wagon (sw)','Toyota Starlet','Plymouth Champ','Honda Civic 1300','Datsun 210 MPG','Toyota Tercel','Mazda GLC 4','Plymouth Horizon 4','Ford Escort 4W','Ford Escort 2H','Volkswagen Jetta','Renault 18i','Honda Prelude','Datsun 200SX','Peugeot 505s Turbo Diesel','Saab 900s','Volvo Diesel','Toyota Cressida','Datsun 810 Maxima','Oldsmobile Cutlass LS','Ford Grenada gl','Chrysler Lebaron Salon','Chevrolet Cavalier','Chevrolet Cavalier Wagon','Chevrolet Cavalier 2-door','Pontiac J2000 SE Hatchback','Dodge Aries SE','Ford Fairmont Futura','AMC Concord DL','Volkswagen Rabbit l','Mazda GLC Custom l','Mazda GLC Custom','Plymouth Horizon Miser','Mercury Lynx l','Nissan Stanza XE','Honda Civic (auto)','Datsun 310 GX','Buick Century Limited','Oldsmobile Cutlass Ciera (diesel)','Chrysler Lebaron Medallion','Ford Grenada l','Toyota Celica GT','Dodge Charger 2.2','Chevrolet Camaro','Ford Mustang GL','Volkswagen Pickup','Dodge Rampage','Ford Ranger','Chevy S-10'}
 @attribute MPG numeric
 @attribute Cylinders numeric
 @attribute Displacement numeric
@@ -11,409 +10,409 @@
 @attribute Origin {US,Europe,Japan}
 
 @data
-'Chevrolet Chevelle Malibu',18,8,307,130,3504,12,70,US
-'Buick Skylark 320',15,8,350,165,3693,11.5,70,US
-'Plymouth Satellite',18,8,318,150,3436,11,70,US
-'AMC Rebel SST',16,8,304,150,3433,12,70,US
-'Ford Torino',17,8,302,140,3449,10.5,70,US
-'Ford Galaxie 500',15,8,429,198,4341,10,70,US
-'Chevrolet Impala',14,8,454,220,4354,9,70,US
-'Plymouth Fury iii',14,8,440,215,4312,8.5,70,US
-'Pontiac Catalina',14,8,455,225,4425,10,70,US
-'AMC Ambassador DPL',15,8,390,190,3850,8.5,70,US
-'Citroen DS-21 Pallas',0,4,133,115,3090,17.5,70,Europe
-'Chevrolet Chevelle Concours (sw)',0,8,350,165,4142,11.5,70,US
-'Ford Torino (sw)',0,8,351,153,4034,11,70,US
-'Plymouth Satellite (sw)',0,8,383,175,4166,10.5,70,US
-'AMC Rebel SST (sw)',0,8,360,175,3850,11,70,US
-'Dodge Challenger SE',15,8,383,170,3563,10,70,US
-'Plymouth \'Cuda 340',14,8,340,160,3609,8,70,US
-'Ford Mustang Boss 302',0,8,302,140,3353,8,70,US
-'Chevrolet Monte Carlo',15,8,400,150,3761,9.5,70,US
-'Buick Estate Wagon (sw)',14,8,455,225,3086,10,70,US
-'Toyota Corolla Mark ii',24,4,113,95,2372,15,70,Japan
-'Plymouth Duster',22,6,198,95,2833,15.5,70,US
-'AMC Hornet',18,6,199,97,2774,15.5,70,US
-'Ford Maverick',21,6,200,85,2587,16,70,US
-'Datsun PL510',27,4,97,88,2130,14.5,70,Japan
-'Volkswagen 1131 Deluxe Sedan',26,4,97,46,1835,20.5,70,Europe
-'Peugeot 504',25,4,110,87,2672,17.5,70,Europe
-'Audi 100 LS',24,4,107,90,2430,14.5,70,Europe
-'Saab 99e',25,4,104,95,2375,17.5,70,Europe
-'BMW 2002',26,4,121,113,2234,12.5,70,Europe
-'AMC Gremlin',21,6,199,90,2648,15,70,US
-'Ford F250',10,8,360,215,4615,14,70,US
-'Chevy C20',10,8,307,200,4376,15,70,US
-'Dodge D200',11,8,318,210,4382,13.5,70,US
-'Hi 1200D',9,8,304,193,4732,18.5,70,US
-'Datsun PL510',27,4,97,88,2130,14.5,71,Japan
-'Chevrolet Vega 2300',28,4,140,90,2264,15.5,71,US
-'Toyota Corolla',25,4,113,95,2228,14,71,Japan
-'Ford Pinto',25,4,98,0,2046,19,71,US
-'Volkswagen Super Beetle 117',0,4,97,48,1978,20,71,Europe
-'AMC Gremlin',19,6,232,100,2634,13,71,US
-'Plymouth Satellite Custom',16,6,225,105,3439,15.5,71,US
-'Chevrolet Chevelle Malibu',17,6,250,100,3329,15.5,71,US
-'Ford Torino 500',19,6,250,88,3302,15.5,71,US
-'AMC Matador',18,6,232,100,3288,15.5,71,US
-'Chevrolet Impala',14,8,350,165,4209,12,71,US
-'Pontiac Catalina Brougham',14,8,400,175,4464,11.5,71,US
-'Ford Galaxie 500',14,8,351,153,4154,13.5,71,US
-'Plymouth Fury iii',14,8,318,150,4096,13,71,US
-'Dodge Monaco (sw)',12,8,383,180,4955,11.5,71,US
-'Ford Country Squire (sw)',13,8,400,170,4746,12,71,US
-'Pontiac Safari (sw)',13,8,400,175,5140,12,71,US
-'AMC Hornet Sportabout (sw)',18,6,258,110,2962,13.5,71,US
-'Chevrolet Vega (sw)',22,4,140,72,2408,19,71,US
-'Pontiac Firebird',19,6,250,100,3282,15,71,US
-'Ford Mustang',18,6,250,88,3139,14.5,71,US
-'Mercury Capri 2000',23,4,122,86,2220,14,71,US
-'Opel 1900',28,4,116,90,2123,14,71,Europe
-'Peugeot 304',30,4,79,70,2074,19.5,71,Europe
-'Fiat 124B',30,4,88,76,2065,14.5,71,Europe
-'Toyota Corolla 1200',31,4,71,65,1773,19,71,Japan
-'Datsun 1200',35,4,72,69,1613,18,71,Japan
-'Volkswagen Model 111',27,4,97,60,1834,19,71,Europe
-'Plymouth Cricket',26,4,91,70,1955,20.5,71,US
-'Toyota Corolla Hardtop',24,4,113,95,2278,15.5,72,Japan
-'Dodge Colt Hardtop',25,4,97.5,80,2126,17,72,US
-'Volkswagen Type 3',23,4,97,54,2254,23.5,72,Europe
-'Chevrolet Vega',20,4,140,90,2408,19.5,72,US
-'Ford Pinto Runabout',21,4,122,86,2226,16.5,72,US
-'Chevrolet Impala',13,8,350,165,4274,12,72,US
-'Pontiac Catalina',14,8,400,175,4385,12,72,US
-'Plymouth Fury III',15,8,318,150,4135,13.5,72,US
-'Ford Galaxie 500',14,8,351,153,4129,13,72,US
-'AMC Ambassador SST',17,8,304,150,3672,11.5,72,US
-'Mercury Marquis',11,8,429,208,4633,11,72,US
-'Buick LeSabre Custom',13,8,350,155,4502,13.5,72,US
-'Oldsmobile Delta 88 Royale',12,8,350,160,4456,13.5,72,US
-'Chrysler Newport Royal',13,8,400,190,4422,12.5,72,US
-'Mazda RX2 Coupe',19,3,70,97,2330,13.5,72,Japan
-'AMC Matador (sw)',15,8,304,150,3892,12.5,72,US
-'Chevrolet Chevelle Concours (sw)',13,8,307,130,4098,14,72,US
-'Ford Gran Torino (sw)',13,8,302,140,4294,16,72,US
-'Plymouth Satellite Custom (sw)',14,8,318,150,4077,14,72,US
-'Volvo 145e (sw)',18,4,121,112,2933,14.5,72,Europe
-'Volkswagen 411 (sw)',22,4,121,76,2511,18,72,Europe
-'Peugeot 504 (sw)',21,4,120,87,2979,19.5,72,Europe
-'Renault 12 (sw)',26,4,96,69,2189,18,72,Europe
-'Ford Pinto (sw)',22,4,122,86,2395,16,72,US
-'Datsun 510 (sw)',28,4,97,92,2288,17,72,Japan
-'Toyota Corolla Mark II (sw)',23,4,120,97,2506,14.5,72,Japan
-'Dodge Colt (sw)',28,4,98,80,2164,15,72,US
-'Toyota Corolla 1600 (sw)',27,4,97,88,2100,16.5,72,Japan
-'Buick Century 350',13,8,350,175,4100,13,73,US
-'AMC Matador',14,8,304,150,3672,11.5,73,US
-'Chevrolet Malibu',13,8,350,145,3988,13,73,US
-'Ford Gran Torino',14,8,302,137,4042,14.5,73,US
-'Dodge Coronet Custom',15,8,318,150,3777,12.5,73,US
-'Mercury Marquis Brougham',12,8,429,198,4952,11.5,73,US
-'Chevrolet Caprice Classic',13,8,400,150,4464,12,73,US
-'Ford LTD',13,8,351,158,4363,13,73,US
-'Plymouth Fury Gran Sedan',14,8,318,150,4237,14.5,73,US
-'Chrysler New Yorker Brougham',13,8,440,215,4735,11,73,US
-'Buick Electra 225 Custom',12,8,455,225,4951,11,73,US
-'AMC Ambassador Brougham',13,8,360,175,3821,11,73,US
-'Plymouth Valiant',18,6,225,105,3121,16.5,73,US
-'Chevrolet Nova Custom',16,6,250,100,3278,18,73,US
-'AMC Hornet',18,6,232,100,2945,16,73,US
-'Ford Maverick',18,6,250,88,3021,16.5,73,US
-'Plymouth Duster',23,6,198,95,2904,16,73,US
-'Volkswagen Super Beetle',26,4,97,46,1950,21,73,Europe
-'Chevrolet Impala',11,8,400,150,4997,14,73,US
-'Ford Country',12,8,400,167,4906,12.5,73,US
-'Plymouth Custom Suburb',13,8,360,170,4654,13,73,US
-'Oldsmobile Vista Cruiser',12,8,350,180,4499,12.5,73,US
-'AMC Gremlin',18,6,232,100,2789,15,73,US
-'Toyota Camry',20,4,97,88,2279,19,73,Japan
-'Chevrolet Vega',21,4,140,72,2401,19.5,73,US
-'Datsun 610',22,4,108,94,2379,16.5,73,Japan
-'Mazda RX3',18,3,70,90,2124,13.5,73,Japan
-'Ford Pinto',19,4,122,85,2310,18.5,73,US
-'Mercury Capri v6',21,6,155,107,2472,14,73,US
-'Fiat 124 Sport Coupe',26,4,98,90,2265,15.5,73,Europe
-'Chevrolet Monte Carlo S',15,8,350,145,4082,13,73,US
-'Pontiac Grand Prix',16,8,400,230,4278,9.5,73,US
-'Fiat 128',29,4,68,49,1867,19.5,73,Europe
-'Opel Manta',24,4,116,75,2158,15.5,73,Europe
-'Audi 100LS',20,4,114,91,2582,14,73,Europe
-'Volvo 144ea',19,4,121,112,2868,15.5,73,Europe
-'Dodge Dart Custom',15,8,318,150,3399,11,73,US
-'Saab 99le',24,4,121,110,2660,14,73,Europe
-'Toyota Mark II',20,6,156,122,2807,13.5,73,Japan
-'Oldsmobile Omega',11,8,350,180,3664,11,73,US
-'Plymouth Duster',20,6,198,95,3102,16.5,74,US
-'Ford Maverick',21,6,200,0,2875,17,74,US
-'AMC Hornet',19,6,232,100,2901,16,74,US
-'Chevrolet Nova',15,6,250,100,3336,17,74,US
-'Datsun B210',31,4,79,67,1950,19,74,Japan
-'Ford Pinto',26,4,122,80,2451,16.5,74,US
-'Toyota Corolla 1200',32,4,71,65,1836,21,74,Japan
-'Chevrolet Vega',25,4,140,75,2542,17,74,US
-'Chevrolet Chevelle Malibu Classic',16,6,250,100,3781,17,74,US
-'AMC Matador',16,6,258,110,3632,18,74,US
-'Plymouth Satellite Sebring',18,6,225,105,3613,16.5,74,US
-'Ford Gran Torino',16,8,302,140,4141,14,74,US
-'Buick Century Luxus (sw)',13,8,350,150,4699,14.5,74,US
-'Dodge Coronet Custom (sw)',14,8,318,150,4457,13.5,74,US
-'Ford Gran Torino (sw)',14,8,302,140,4638,16,74,US
-'AMC Matador (sw)',14,8,304,150,4257,15.5,74,US
-'Audi Fox',29,4,98,83,2219,16.5,74,Europe
-'Volkswagen Dasher',26,4,79,67,1963,15.5,74,Europe
-'Opel Manta',26,4,97,78,2300,14.5,74,Europe
-'Toyota Corolla',31,4,76,52,1649,16.5,74,Japan
-'Datsun 710',32,4,83,61,2003,19,74,Japan
-'Dodge Colt',28,4,90,75,2125,14.5,74,US
-'Fiat 128',24,4,90,75,2108,15.5,74,Europe
-'Fiat 124 TC',26,4,116,75,2246,14,74,Europe
-'Honda Civic',24,4,120,97,2489,15,74,Japan
-Subaru,26,4,108,93,2391,15.5,74,Japan
-'Fiat x1.9',31,4,79,67,2000,16,74,Europe
-'Plymouth Valiant Custom',19,6,225,95,3264,16,75,US
-'Chevrolet Nova',18,6,250,105,3459,16,75,US
-'Mercury Monarch',15,6,250,72,3432,21,75,US
-'Ford Maverick',15,6,250,72,3158,19.5,75,US
-'Pontiac Catalina',16,8,400,170,4668,11.5,75,US
-'Chevrolet Bel Air',15,8,350,145,4440,14,75,US
-'Plymouth Grand Fury',16,8,318,150,4498,14.5,75,US
-'Ford LTD',14,8,351,148,4657,13.5,75,US
-'Buick Century',17,6,231,110,3907,21,75,US
-'Chevrolete Chevelle Malibu',16,6,250,105,3897,18.5,75,US
-'AMC Matador',15,6,258,110,3730,19,75,US
-'Plymouth Fury',18,6,225,95,3785,19,75,US
-'Buick Skyhawk',21,6,231,110,3039,15,75,US
-'Chevrolet Monza 2+2',20,8,262,110,3221,13.5,75,US
-'Ford Mustang II',13,8,302,129,3169,12,75,US
-'Toyota Corolla',29,4,97,75,2171,16,75,Japan
-'Ford Pinto',23,4,140,83,2639,17,75,US
-'AMC Gremlin',20,6,232,100,2914,16,75,US
-'Pontiac Astro',23,4,140,78,2592,18.5,75,US
-'Toyota Corolla',24,4,134,96,2702,13.5,75,Japan
-'Volkswagen Dasher',25,4,90,71,2223,16.5,75,Europe
-'Datsun 710',24,4,119,97,2545,17,75,Japan
-'Ford Pinto',18,6,171,97,2984,14.5,75,US
-'Volkswagen Rabbit',29,4,90,70,1937,14,75,Europe
-'AMC Pacer',19,6,232,90,3211,17,75,US
-'Audi 100LS',23,4,115,95,2694,15,75,Europe
-'Peugeot 504',23,4,120,88,2957,17,75,Europe
-'Volvo 244DL',22,4,121,98,2945,14.5,75,Europe
-'Saab 99LE',25,4,121,115,2671,13.5,75,Europe
-'Honda Civic CVCC',33,4,91,53,1795,17.5,75,Japan
-'Fiat 131',28,4,107,86,2464,15.5,76,Europe
-'Opel 1900',25,4,116,81,2220,16.9,76,Europe
-'Capri ii',25,4,140,92,2572,14.9,76,US
-'Dodge Colt',26,4,98,79,2255,17.7,76,US
-'Renault 12tl',27,4,101,83,2202,15.3,76,Europe
-'Chevrolet Chevelle Malibu Classic',17.5,8,305,140,4215,13,76,US
-'Dodge Coronet Brougham',16,8,318,150,4190,13,76,US
-'AMC Matador',15.5,8,304,120,3962,13.9,76,US
-'Ford Gran Torino',14.5,8,351,152,4215,12.8,76,US
-'Plymouth Valiant',22,6,225,100,3233,15.4,76,US
-'Chevrolet Nova',22,6,250,105,3353,14.5,76,US
-'Ford Maverick',24,6,200,81,3012,17.6,76,US
-'AMC Hornet',22.5,6,232,90,3085,17.6,76,US
-'Chevrolet Chevette',29,4,85,52,2035,22.2,76,US
-'Chevrolet Woody',24.5,4,98,60,2164,22.1,76,US
-'Volkswagen Rabbit',29,4,90,70,1937,14.2,76,Europe
-'Honda Civic',33,4,91,53,1795,17.4,76,Japan
-'Dodge Aspen SE',20,6,225,100,3651,17.7,76,US
-'Ford Grenada ghia',18,6,250,78,3574,21,76,US
-'Pontiac Ventura SJ',18.5,6,250,110,3645,16.2,76,US
-'AMC Pacer d/l',17.5,6,258,95,3193,17.8,76,US
-'Volkswagen Rabbit',29.5,4,97,71,1825,12.2,76,Europe
-'Datsun B-210',32,4,85,70,1990,17,76,Japan
-'Toyota Corolla',28,4,97,75,2155,16.4,76,Japan
-'Ford Pinto',26.5,4,140,72,2565,13.6,76,US
-'Volvo 245',20,4,130,102,3150,15.7,76,Europe
-'Plymouth Volare Premier v8',13,8,318,150,3940,13.2,76,US
-'Peugeot 504',19,4,120,88,3270,21.9,76,Europe
-'Toyota Mark II',19,6,156,108,2930,15.5,76,Japan
-'Mercedes-Benz 280s',16.5,6,168,120,3820,16.7,76,Europe
-'Cadillac Seville',16.5,8,350,180,4380,12.1,76,US
-'Chevrolet C10',13,8,350,145,4055,12,76,US
-'Ford F108',13,8,302,130,3870,15,76,US
-'Dodge D100',13,8,318,150,3755,14,76,US
-'Honda Accord CVCC',31.5,4,98,68,2045,18.5,77,Japan
-'Buick Opel Isuzu Deluxe',30,4,111,80,2155,14.8,77,US
-'Renault 5 GTL',36,4,79,58,1825,18.6,77,Europe
-'Plymouth Arrow GS',25.5,4,122,96,2300,15.5,77,US
-'Datsun F-10 Hatchback',33.5,4,85,70,1945,16.8,77,Japan
-'Chevrolet Caprice Classic',17.5,8,305,145,3880,12.5,77,US
-'Oldsmobile Cutlass Supreme',17,8,260,110,4060,19,77,US
-'Dodge Monaco Brougham',15.5,8,318,145,4140,13.7,77,US
-'Mercury Cougar Brougham',15,8,302,130,4295,14.9,77,US
-'Chevrolet Concours',17.5,6,250,110,3520,16.4,77,US
-'Buick Skylark',20.5,6,231,105,3425,16.9,77,US
-'Plymouth Volare Custom',19,6,225,100,3630,17.7,77,US
-'Ford Grenada',18.5,6,250,98,3525,19,77,US
-'Pontiac Grand Prix LJ',16,8,400,180,4220,11.1,77,US
-'Chevrolet Monte Carlo Landau',15.5,8,350,170,4165,11.4,77,US
-'Chrysler Cordoba',15.5,8,400,190,4325,12.2,77,US
-'Ford Thunderbird',16,8,351,149,4335,14.5,77,US
-'Volkswagen Rabbit Custom',29,4,97,78,1940,14.5,77,Europe
-'Pontiac Sunbird Coupe',24.5,4,151,88,2740,16,77,US
-'Toyota Corolla Liftback',26,4,97,75,2265,18.2,77,Japan
-'Ford Mustang II 2+2',25.5,4,140,89,2755,15.8,77,US
-'Chevrolet Chevette',30.5,4,98,63,2051,17,77,US
-'Dodge Colt m/m',33.5,4,98,83,2075,15.9,77,US
-'Subaru DL',30,4,97,67,1985,16.4,77,Japan
-'Volkswagen Dasher',30.5,4,97,78,2190,14.1,77,Europe
-'Datsun 810',22,6,146,97,2815,14.5,77,Japan
-'BMW 320i',21.5,4,121,110,2600,12.8,77,Europe
-'Mazda RX-4',21.5,3,80,110,2720,13.5,77,Japan
-'Volkswagen Rabbit Custom Diesel',43.1,4,90,48,1985,21.5,78,Europe
-'Ford Fiesta',36.1,4,98,66,1800,14.4,78,US
-'Mazda GLC Deluxe',32.8,4,78,52,1985,19.4,78,Japan
-'Datsun B210 GX',39.4,4,85,70,2070,18.6,78,Japan
-'Honda Civic CVCC',36.1,4,91,60,1800,16.4,78,Japan
-'Oldsmobile Cutlass Salon Brougham',19.9,8,260,110,3365,15.5,78,US
-'Dodge Diplomat',19.4,8,318,140,3735,13.2,78,US
-'Mercury Monarch ghia',20.2,8,302,139,3570,12.8,78,US
-'Pontiac Phoenix LJ',19.2,6,231,105,3535,19.2,78,US
-'Chevrolet Malibu',20.5,6,200,95,3155,18.2,78,US
-'Ford Fairmont (auto)',20.2,6,200,85,2965,15.8,78,US
-'Ford Fairmont (man)',25.1,4,140,88,2720,15.4,78,US
-'Plymouth Volare',20.5,6,225,100,3430,17.2,78,US
-'AMC Concord',19.4,6,232,90,3210,17.2,78,US
-'Buick Century Special',20.6,6,231,105,3380,15.8,78,US
-'Mercury Zephyr',20.8,6,200,85,3070,16.7,78,US
-'Dodge Aspen',18.6,6,225,110,3620,18.7,78,US
-'AMC Concord d/l',18.1,6,258,120,3410,15.1,78,US
-'Chevrolet Monte Carlo Landau',19.2,8,305,145,3425,13.2,78,US
-'Buick Regal Sport Coupe (turbo)',17.7,6,231,165,3445,13.4,78,US
-'Ford Futura',18.1,8,302,139,3205,11.2,78,US
-'Dodge Magnum XE',17.5,8,318,140,4080,13.7,78,US
-'Chevrolet Chevette',30,4,98,68,2155,16.5,78,US
-'Toyota Corolla',27.5,4,134,95,2560,14.2,78,Japan
-'Datsun 510',27.2,4,119,97,2300,14.7,78,Japan
-'Dodge Omni',30.9,4,105,75,2230,14.5,78,US
-'Toyota Celica GT Liftback',21.1,4,134,95,2515,14.8,78,Japan
-'Plymouth Sapporo',23.2,4,156,105,2745,16.7,78,US
-'Oldsmobile Starfire SX',23.8,4,151,85,2855,17.6,78,US
-'Datsun 200-SX',23.9,4,119,97,2405,14.9,78,Japan
-'Audi 5000',20.3,5,131,103,2830,15.9,78,Europe
-'Volvo 264gl',17,6,163,125,3140,13.6,78,Europe
-'Saab 99gle',21.6,4,121,115,2795,15.7,78,Europe
-'Peugeot 604sl',16.2,6,163,133,3410,15.8,78,Europe
-'Volkswagen Scirocco',31.5,4,89,71,1990,14.9,78,Europe
-'Honda Accord LX',29.5,4,98,68,2135,16.6,78,Japan
-'Pontiac Lemans V6',21.5,6,231,115,3245,15.4,79,US
-'Mercury Zephyr 6',19.8,6,200,85,2990,18.2,79,US
-'Ford Fairmont 4',22.3,4,140,88,2890,17.3,79,US
-'AMC Concord DL 6',20.2,6,232,90,3265,18.2,79,US
-'Dodge Aspen 6',20.6,6,225,110,3360,16.6,79,US
-'Chevrolet Caprice Classic',17,8,305,130,3840,15.4,79,US
-'Ford LTD Landau',17.6,8,302,129,3725,13.4,79,US
-'Mercury Grand Marquis',16.5,8,351,138,3955,13.2,79,US
-'Dodge St. Regis',18.2,8,318,135,3830,15.2,79,US
-'Buick Estate Wagon (sw)',16.9,8,350,155,4360,14.9,79,US
-'Ford Country Squire (sw)',15.5,8,351,142,4054,14.3,79,US
-'Chevrolet Malibu Classic (sw)',19.2,8,267,125,3605,15,79,US
-'Chrysler Lebaron Town @ Country (sw)',18.5,8,360,150,3940,13,79,US
-'Volkswagen Rabbit Custom',31.9,4,89,71,1925,14,79,Europe
-'Mazda GLC Deluxe',34.1,4,86,65,1975,15.2,79,Japan
-'Dodge Colt Hatchback Custom',35.7,4,98,80,1915,14.4,79,US
-'AMC Spirit DL',27.4,4,121,80,2670,15,79,US
-'Mercedes Benz 300d',25.4,5,183,77,3530,20.1,79,Europe
-'Cadillac Eldorado',23,8,350,125,3900,17.4,79,US
-'Peugeot 504',27.2,4,141,71,3190,24.8,79,Europe
-'Oldsmobile Cutlass Salon Brougham',23.9,8,260,90,3420,22.2,79,US
-'Plymouth Horizon',34.2,4,105,70,2200,13.2,79,US
-'Plymouth Horizon TC3',34.5,4,105,70,2150,14.9,79,US
-'Datsun 210',31.8,4,85,65,2020,19.2,79,Japan
-'Fiat Strada Custom',37.3,4,91,69,2130,14.7,79,Europe
-'Buick Skylark Limited',28.4,4,151,90,2670,16,79,US
-'Chevrolet Citation',28.8,6,173,115,2595,11.3,79,US
-'Oldsmobile Omega Brougham',26.8,6,173,115,2700,12.9,79,US
-'Pontiac Phoenix',33.5,4,151,90,2556,13.2,79,US
-'Volkswagen Rabbit',41.5,4,98,76,2144,14.7,80,Europe
-'Toyota Corolla Tercel',38.1,4,89,60,1968,18.8,80,Japan
-'Chevrolet Chevette',32.1,4,98,70,2120,15.5,80,US
-'Datsun 310',37.2,4,86,65,2019,16.4,80,Japan
-'Chevrolet Citation',28,4,151,90,2678,16.5,80,US
-'Ford Fairmont',26.4,4,140,88,2870,18.1,80,US
-'AMC Concord',24.3,4,151,90,3003,20.1,80,US
-'Dodge Aspen',19.1,6,225,90,3381,18.7,80,US
-'Audi 4000',34.3,4,97,78,2188,15.8,80,Europe
-'Toyota Corolla Liftback',29.8,4,134,90,2711,15.5,80,Japan
-'Mazda 626',31.3,4,120,75,2542,17.5,80,Japan
-'Datsun 510 Hatchback',37,4,119,92,2434,15,80,Japan
-'Toyota Corolla',32.2,4,108,75,2265,15.2,80,Japan
-'Mazda GLC',46.6,4,86,65,2110,17.9,80,Japan
-'Dodge Colt',27.9,4,156,105,2800,14.4,80,US
-'Datsun 210',40.8,4,85,65,2110,19.2,80,Japan
-'Volkswagen Rabbit C (Diesel)',44.3,4,90,48,2085,21.7,80,Europe
-'Volkswagen Dasher (diesel)',43.4,4,90,48,2335,23.7,80,Europe
-'Audi 5000s (diesel)',36.4,5,121,67,2950,19.9,80,Europe
-'Mercedes-Benz 240d',30,4,146,67,3250,21.8,80,Europe
-'Honda Civic 1500 gl',44.6,4,91,67,1850,13.8,80,Japan
-'Renault Lecar Deluxe',40.9,4,85,0,1835,17.3,80,Europe
-'Subaru DL',33.8,4,97,67,2145,18,80,Japan
-'Volkswagen Rabbit',29.8,4,89,62,1845,15.3,80,Europe
-'Datsun 280-ZX',32.7,6,168,132,2910,11.4,80,Japan
-'Mazda RX-7 GS',23.7,3,70,100,2420,12.5,80,Japan
-'Triumph TR7 Coupe',35,4,122,88,2500,15.1,80,Europe
-'Ford Mustang Cobra',23.6,4,140,0,2905,14.3,80,US
-'Honda Accord',32.4,4,107,72,2290,17,80,Japan
-'Plymouth Reliant',27.2,4,135,84,2490,15.7,81,US
-'Buick Skylark',26.6,4,151,84,2635,16.4,81,US
-'Dodge Aries Wagon (sw)',25.8,4,156,92,2620,14.4,81,US
-'Chevrolet Citation',23.5,6,173,110,2725,12.6,81,US
-'Plymouth Reliant',30,4,135,84,2385,12.9,81,US
-'Toyota Starlet',39.1,4,79,58,1755,16.9,81,Japan
-'Plymouth Champ',39,4,86,64,1875,16.4,81,US
-'Honda Civic 1300',35.1,4,81,60,1760,16.1,81,Japan
-Subaru,32.3,4,97,67,2065,17.8,81,Japan
-'Datsun 210 MPG',37,4,85,65,1975,19.4,81,Japan
-'Toyota Tercel',37.7,4,89,62,2050,17.3,81,Japan
-'Mazda GLC 4',34.1,4,91,68,1985,16,81,Japan
-'Plymouth Horizon 4',34.7,4,105,63,2215,14.9,81,US
-'Ford Escort 4W',34.4,4,98,65,2045,16.2,81,US
-'Ford Escort 2H',29.9,4,98,65,2380,20.7,81,US
-'Volkswagen Jetta',33,4,105,74,2190,14.2,81,Europe
-'Renault 18i',34.5,4,100,0,2320,15.8,81,Europe
-'Honda Prelude',33.7,4,107,75,2210,14.4,81,Japan
-'Toyota Corolla',32.4,4,108,75,2350,16.8,81,Japan
-'Datsun 200SX',32.9,4,119,100,2615,14.8,81,Japan
-'Mazda 626',31.6,4,120,74,2635,18.3,81,Japan
-'Peugeot 505s Turbo Diesel',28.1,4,141,80,3230,20.4,81,Europe
-'Saab 900s',0,4,121,110,2800,15.4,81,Europe
-'Volvo Diesel',30.7,6,145,76,3160,19.6,81,Europe
-'Toyota Cressida',25.4,6,168,116,2900,12.6,81,Japan
-'Datsun 810 Maxima',24.2,6,146,120,2930,13.8,81,Japan
-'Buick Century',22.4,6,231,110,3415,15.8,81,US
-'Oldsmobile Cutlass LS',26.6,8,350,105,3725,19,81,US
-'Ford Grenada gl',20.2,6,200,88,3060,17.1,81,US
-'Chrysler Lebaron Salon',17.6,6,225,85,3465,16.6,81,US
-'Chevrolet Cavalier',28,4,112,88,2605,19.6,82,US
-'Chevrolet Cavalier Wagon',27,4,112,88,2640,18.6,82,US
-'Chevrolet Cavalier 2-door',34,4,112,88,2395,18,82,US
-'Pontiac J2000 SE Hatchback',31,4,112,85,2575,16.2,82,US
-'Dodge Aries SE',29,4,135,84,2525,16,82,US
-'Pontiac Phoenix',27,4,151,90,2735,18,82,US
-'Ford Fairmont Futura',24,4,140,92,2865,16.4,82,US
-'AMC Concord DL',23,4,151,0,3035,20.5,82,US
-'Volkswagen Rabbit l',36,4,105,74,1980,15.3,82,Europe
-'Mazda GLC Custom l',37,4,91,68,2025,18.2,82,Japan
-'Mazda GLC Custom',31,4,91,68,1970,17.6,82,Japan
-'Plymouth Horizon Miser',38,4,105,63,2125,14.7,82,US
-'Mercury Lynx l',36,4,98,70,2125,17.3,82,US
-'Nissan Stanza XE',36,4,120,88,2160,14.5,82,Japan
-'Honda Accord',36,4,107,75,2205,14.5,82,Japan
-'Toyota Corolla',34,4,108,70,2245,16.9,82,Japan
-'Honda Civic',38,4,91,67,1965,15,82,Japan
-'Honda Civic (auto)',32,4,91,67,1965,15.7,82,Japan
-'Datsun 310 GX',38,4,91,67,1995,16.2,82,Japan
-'Buick Century Limited',25,6,181,110,2945,16.4,82,US
-'Oldsmobile Cutlass Ciera (diesel)',38,6,262,85,3015,17,82,US
-'Chrysler Lebaron Medallion',26,4,156,92,2585,14.5,82,US
-'Ford Grenada l',22,6,232,112,2835,14.7,82,US
-'Toyota Celica GT',32,4,144,96,2665,13.9,82,Japan
-'Dodge Charger 2.2',36,4,135,84,2370,13,82,US
-'Chevrolet Camaro',27,4,151,90,2950,17.3,82,US
-'Ford Mustang GL',27,4,140,86,2790,15.6,82,US
-'Volkswagen Pickup',44,4,97,52,2130,24.6,82,Europe
-'Dodge Rampage',32,4,135,84,2295,11.6,82,US
-'Ford Ranger',28,4,120,79,2625,18.6,82,US
-'Chevy S-10',31,4,119,82,2720,19.4,82,US
+180,8,3070,1300,3504,120,70,US
+150,8,3500,1650,3693,115,70,US
+180,8,3180,1500,3436,110,70,US
+160,8,3040,1500,3433,120,70,US
+170,8,3020,1400,3449,105,70,US
+150,8,4290,1980,4341,100,70,US
+140,8,4540,2200,4354,90,70,US
+140,8,4400,2150,4312,85,70,US
+140,8,4550,2250,4425,100,70,US
+150,8,3900,1900,3850,85,70,US
+0,4,1330,1150,3090,175,70,Europe
+0,8,3500,1650,4142,115,70,US
+0,8,3510,1530,4034,110,70,US
+0,8,3830,1750,4166,105,70,US
+0,8,3600,1750,3850,110,70,US
+150,8,3830,1700,3563,100,70,US
+140,8,3400,1600,3609,80,70,US
+0,8,3020,1400,3353,80,70,US
+150,8,4000,1500,3761,95,70,US
+140,8,4550,2250,3086,100,70,US
+240,4,1130,9500,2372,150,70,Japan
+220,6,1980,9500,2833,155,70,US
+180,6,1990,9700,2774,155,70,US
+210,6,2000,8500,2587,160,70,US
+270,4,9700,8800,2130,145,70,Japan
+260,4,9700,4600,1835,205,70,Europe
+250,4,1100,8700,2672,175,70,Europe
+240,4,1070,9000,2430,145,70,Europe
+250,4,1040,9500,2375,175,70,Europe
+260,4,1210,1130,2234,125,70,Europe
+210,6,1990,9000,2648,150,70,US
+100,8,3600,2150,4615,140,70,US
+100,8,3070,2000,4376,150,70,US
+110,8,3180,2100,4382,135,70,US
+90,8,3040,1930,4732,185,70,US
+270,4,9700,8800,2130,145,71,Japan
+280,4,1400,9000,2264,155,71,US
+250,4,1130,9500,2228,140,71,Japan
+250,4,9800,0,2046,190,71,US
+0,4,9700,4800,1978,200,71,Europe
+190,6,2320,1000,2634,130,71,US
+160,6,2250,1050,3439,155,71,US
+170,6,2500,1000,3329,155,71,US
+190,6,2500,8800,3302,155,71,US
+180,6,2320,1000,3288,155,71,US
+140,8,3500,1650,4209,120,71,US
+140,8,4000,1750,4464,115,71,US
+140,8,3510,1530,4154,135,71,US
+140,8,3180,1500,4096,130,71,US
+120,8,3830,1800,4955,115,71,US
+130,8,4000,1700,4746,120,71,US
+130,8,4000,1750,5140,120,71,US
+180,6,2580,1100,2962,135,71,US
+220,4,1400,7200,2408,190,71,US
+190,6,2500,1000,3282,150,71,US
+180,6,2500,8800,3139,145,71,US
+230,4,1220,8600,2220,140,71,US
+280,4,1160,9000,2123,140,71,Europe
+300,4,7900,7000,2074,195,71,Europe
+300,4,8800,7600,2065,145,71,Europe
+310,4,7100,6500,1773,190,71,Japan
+350,4,7200,6900,1613,180,71,Japan
+270,4,9700,6000,1834,190,71,Europe
+260,4,9100,7000,1955,205,71,US
+240,4,1130,9500,2278,155,72,Japan
+250,4,9750,8000,2126,170,72,US
+230,4,9700,5400,2254,235,72,Europe
+200,4,1400,9000,2408,195,72,US
+210,4,1220,8600,2226,165,72,US
+130,8,3500,1650,4274,120,72,US
+140,8,4000,1750,4385,120,72,US
+150,8,3180,1500,4135,135,72,US
+140,8,3510,1530,4129,130,72,US
+170,8,3040,1500,3672,115,72,US
+110,8,4290,2080,4633,110,72,US
+130,8,3500,1550,4502,135,72,US
+120,8,3500,1600,4456,135,72,US
+130,8,4000,1900,4422,125,72,US
+190,3,7000,9700,2330,135,72,Japan
+150,8,3040,1500,3892,125,72,US
+130,8,3070,1300,4098,140,72,US
+130,8,3020,1400,4294,160,72,US
+140,8,3180,1500,4077,140,72,US
+180,4,1210,1120,2933,145,72,Europe
+220,4,1210,7600,2511,180,72,Europe
+210,4,1200,8700,2979,195,72,Europe
+260,4,9600,6900,2189,180,72,Europe
+220,4,1220,8600,2395,160,72,US
+280,4,9700,9200,2288,170,72,Japan
+230,4,1200,9700,2506,145,72,Japan
+280,4,9800,8000,2164,150,72,US
+270,4,9700,8800,2100,165,72,Japan
+130,8,3500,1750,4100,130,73,US
+140,8,3040,1500,3672,115,73,US
+130,8,3500,1450,3988,130,73,US
+140,8,3020,1370,4042,145,73,US
+150,8,3180,1500,3777,125,73,US
+120,8,4290,1980,4952,115,73,US
+130,8,4000,1500,4464,120,73,US
+130,8,3510,1580,4363,130,73,US
+140,8,3180,1500,4237,145,73,US
+130,8,4400,2150,4735,110,73,US
+120,8,4550,2250,4951,110,73,US
+130,8,3600,1750,3821,110,73,US
+180,6,2250,1050,3121,165,73,US
+160,6,2500,1000,3278,180,73,US
+180,6,2320,1000,2945,160,73,US
+180,6,2500,8800,3021,165,73,US
+230,6,1980,9500,2904,160,73,US
+260,4,9700,4600,1950,210,73,Europe
+110,8,4000,1500,4997,140,73,US
+120,8,4000,1670,4906,125,73,US
+130,8,3600,1700,4654,130,73,US
+120,8,3500,1800,4499,125,73,US
+180,6,2320,1000,2789,150,73,US
+200,4,9700,8800,2279,190,73,Japan
+210,4,1400,7200,2401,195,73,US
+220,4,1080,9400,2379,165,73,Japan
+180,3,7000,9000,2124,135,73,Japan
+190,4,1220,8500,2310,185,73,US
+210,6,1550,1070,2472,140,73,US
+260,4,9800,9000,2265,155,73,Europe
+150,8,3500,1450,4082,130,73,US
+160,8,4000,2300,4278,950,73,US
+290,4,6800,4900,1867,195,73,Europe
+240,4,1160,7500,2158,155,73,Europe
+200,4,1140,9100,2582,140,73,Europe
+190,4,1210,1120,2868,155,73,Europe
+150,8,3180,1500,3399,110,73,US
+240,4,1210,1100,2660,140,73,Europe
+200,6,1560,1220,2807,135,73,Japan
+110,8,3500,1800,3664,110,73,US
+200,6,1980,9500,3102,165,74,US
+210,6,2000,0,2875,170,74,US
+190,6,2320,1000,2901,160,74,US
+150,6,2500,1000,3336,170,74,US
+310,4,7900,6700,1950,190,74,Japan
+260,4,1220,8000,2451,165,74,US
+320,4,7100,6500,1836,210,74,Japan
+250,4,1400,7500,2542,170,74,US
+160,6,2500,1000,3781,170,74,US
+160,6,2580,1100,3632,180,74,US
+180,6,2250,1050,3613,165,74,US
+160,8,3020,1400,4141,140,74,US
+130,8,3500,1500,4699,145,74,US
+140,8,3180,1500,4457,135,74,US
+140,8,3020,1400,4638,160,74,US
+140,8,3040,1500,4257,155,74,US
+290,4,9800,8300,2219,165,74,Europe
+260,4,7900,6700,1963,155,74,Europe
+260,4,9700,7800,2300,145,74,Europe
+310,4,7600,5200,1649,165,74,Japan
+320,4,8300,6100,2003,190,74,Japan
+280,4,9000,7500,2125,145,74,US
+240,4,9000,7500,2108,155,74,Europe
+260,4,1160,7500,2246,140,74,Europe
+240,4,1200,9700,2489,150,74,Japan
+260,4,1080,9300,2391,155,74,Japan
+310,4,7900,6700,2000,160,74,Europe
+190,6,2250,9500,3264,160,75,US
+180,6,2500,1050,3459,160,75,US
+150,6,2500,7200,3432,210,75,US
+150,6,2500,7200,3158,195,75,US
+160,8,4000,1700,4668,115,75,US
+150,8,3500,1450,4440,140,75,US
+160,8,3180,1500,4498,145,75,US
+140,8,3510,1480,4657,135,75,US
+170,6,2310,1100,3907,210,75,US
+160,6,2500,1050,3897,185,75,US
+150,6,2580,1100,3730,190,75,US
+180,6,2250,9500,3785,190,75,US
+210,6,2310,1100,3039,150,75,US
+200,8,2620,1100,3221,135,75,US
+130,8,3020,1290,3169,120,75,US
+290,4,9700,7500,2171,160,75,Japan
+230,4,1400,8300,2639,170,75,US
+200,6,2320,1000,2914,160,75,US
+230,4,1400,7800,2592,185,75,US
+240,4,1340,9600,2702,135,75,Japan
+250,4,9000,7100,2223,165,75,Europe
+240,4,1190,9700,2545,170,75,Japan
+180,6,1710,9700,2984,145,75,US
+290,4,9000,7000,1937,140,75,Europe
+190,6,2320,9000,3211,170,75,US
+230,4,1150,9500,2694,150,75,Europe
+230,4,1200,8800,2957,170,75,Europe
+220,4,1210,9800,2945,145,75,Europe
+250,4,1210,1150,2671,135,75,Europe
+330,4,9100,5300,1795,175,75,Japan
+280,4,1070,8600,2464,155,76,Europe
+250,4,1160,8100,2220,169,76,Europe
+250,4,1400,9200,2572,149,76,US
+260,4,9800,7900,2255,177,76,US
+270,4,1010,8300,2202,153,76,Europe
+175,8,3050,1400,4215,130,76,US
+160,8,3180,1500,4190,130,76,US
+155,8,3040,1200,3962,139,76,US
+145,8,3510,1520,4215,128,76,US
+220,6,2250,1000,3233,154,76,US
+220,6,2500,1050,3353,145,76,US
+240,6,2000,8100,3012,176,76,US
+225,6,2320,9000,3085,176,76,US
+290,4,8500,5200,2035,222,76,US
+245,4,9800,6000,2164,221,76,US
+290,4,9000,7000,1937,142,76,Europe
+330,4,9100,5300,1795,174,76,Japan
+200,6,2250,1000,3651,177,76,US
+180,6,2500,7800,3574,210,76,US
+185,6,2500,1100,3645,162,76,US
+175,6,2580,9500,3193,178,76,US
+295,4,9700,7100,1825,122,76,Europe
+320,4,8500,7000,1990,170,76,Japan
+280,4,9700,7500,2155,164,76,Japan
+265,4,1400,7200,2565,136,76,US
+200,4,1300,1020,3150,157,76,Europe
+130,8,3180,1500,3940,132,76,US
+190,4,1200,8800,3270,219,76,Europe
+190,6,1560,1080,2930,155,76,Japan
+165,6,1680,1200,3820,167,76,Europe
+165,8,3500,1800,4380,121,76,US
+130,8,3500,1450,4055,120,76,US
+130,8,3020,1300,3870,150,76,US
+130,8,3180,1500,3755,140,76,US
+315,4,9800,6800,2045,185,77,Japan
+300,4,1110,8000,2155,148,77,US
+360,4,7900,5800,1825,186,77,Europe
+255,4,1220,9600,2300,155,77,US
+335,4,8500,7000,1945,168,77,Japan
+175,8,3050,1450,3880,125,77,US
+170,8,2600,1100,4060,190,77,US
+155,8,3180,1450,4140,137,77,US
+150,8,3020,1300,4295,149,77,US
+175,6,2500,1100,3520,164,77,US
+205,6,2310,1050,3425,169,77,US
+190,6,2250,1000,3630,177,77,US
+185,6,2500,9800,3525,190,77,US
+160,8,4000,1800,4220,111,77,US
+155,8,3500,1700,4165,114,77,US
+155,8,4000,1900,4325,122,77,US
+160,8,3510,1490,4335,145,77,US
+290,4,9700,7800,1940,145,77,Europe
+245,4,1510,8800,2740,160,77,US
+260,4,9700,7500,2265,182,77,Japan
+255,4,1400,8900,2755,158,77,US
+305,4,9800,6300,2051,170,77,US
+335,4,9800,8300,2075,159,77,US
+300,4,9700,6700,1985,164,77,Japan
+305,4,9700,7800,2190,141,77,Europe
+220,6,1460,9700,2815,145,77,Japan
+215,4,1210,1100,2600,128,77,Europe
+215,3,8000,1100,2720,135,77,Japan
+431,4,9000,4800,1985,215,78,Europe
+361,4,9800,6600,1800,144,78,US
+328,4,7800,5200,1985,194,78,Japan
+394,4,8500,7000,2070,186,78,Japan
+361,4,9100,6000,1800,164,78,Japan
+199,8,2600,1100,3365,155,78,US
+194,8,3180,1400,3735,132,78,US
+202,8,3020,1390,3570,128,78,US
+192,6,2310,1050,3535,192,78,US
+205,6,2000,9500,3155,182,78,US
+202,6,2000,8500,2965,158,78,US
+251,4,1400,8800,2720,154,78,US
+205,6,2250,1000,3430,172,78,US
+194,6,2320,9000,3210,172,78,US
+206,6,2310,1050,3380,158,78,US
+208,6,2000,8500,3070,167,78,US
+186,6,2250,1100,3620,187,78,US
+181,6,2580,1200,3410,151,78,US
+192,8,3050,1450,3425,132,78,US
+177,6,2310,1650,3445,134,78,US
+181,8,3020,1390,3205,112,78,US
+175,8,3180,1400,4080,137,78,US
+300,4,9800,6800,2155,165,78,US
+275,4,1340,9500,2560,142,78,Japan
+272,4,1190,9700,2300,147,78,Japan
+309,4,1050,7500,2230,145,78,US
+211,4,1340,9500,2515,148,78,Japan
+232,4,1560,1050,2745,167,78,US
+238,4,1510,8500,2855,176,78,US
+239,4,1190,9700,2405,149,78,Japan
+203,5,1310,1030,2830,159,78,Europe
+170,6,1630,1250,3140,136,78,Europe
+216,4,1210,1150,2795,157,78,Europe
+162,6,1630,1330,3410,158,78,Europe
+315,4,8900,7100,1990,149,78,Europe
+295,4,9800,6800,2135,166,78,Japan
+215,6,2310,1150,3245,154,79,US
+198,6,2000,8500,2990,182,79,US
+223,4,1400,8800,2890,173,79,US
+202,6,2320,9000,3265,182,79,US
+206,6,2250,1100,3360,166,79,US
+170,8,3050,1300,3840,154,79,US
+176,8,3020,1290,3725,134,79,US
+165,8,3510,1380,3955,132,79,US
+182,8,3180,1350,3830,152,79,US
+169,8,3500,1550,4360,149,79,US
+155,8,3510,1420,4054,143,79,US
+192,8,2670,1250,3605,150,79,US
+185,8,3600,1500,3940,130,79,US
+319,4,8900,7100,1925,140,79,Europe
+341,4,8600,6500,1975,152,79,Japan
+357,4,9800,8000,1915,144,79,US
+274,4,1210,8000,2670,150,79,US
+254,5,1830,7700,3530,201,79,Europe
+230,8,3500,1250,3900,174,79,US
+272,4,1410,7100,3190,248,79,Europe
+239,8,2600,9000,3420,222,79,US
+342,4,1050,7000,2200,132,79,US
+345,4,1050,7000,2150,149,79,US
+318,4,8500,6500,2020,192,79,Japan
+373,4,9100,6900,2130,147,79,Europe
+284,4,1510,9000,2670,160,79,US
+288,6,1730,1150,2595,113,79,US
+268,6,1730,1150,2700,129,79,US
+335,4,1510,9000,2556,132,79,US
+415,4,9800,7600,2144,147,80,Europe
+381,4,8900,6000,1968,188,80,Japan
+321,4,9800,7000,2120,155,80,US
+372,4,8600,6500,2019,164,80,Japan
+280,4,1510,9000,2678,165,80,US
+264,4,1400,8800,2870,181,80,US
+243,4,1510,9000,3003,201,80,US
+191,6,2250,9000,3381,187,80,US
+343,4,9700,7800,2188,158,80,Europe
+298,4,1340,9000,2711,155,80,Japan
+313,4,1200,7500,2542,175,80,Japan
+370,4,1190,9200,2434,150,80,Japan
+322,4,1080,7500,2265,152,80,Japan
+466,4,8600,6500,2110,179,80,Japan
+279,4,1560,1050,2800,144,80,US
+408,4,8500,6500,2110,192,80,Japan
+443,4,9000,4800,2085,217,80,Europe
+434,4,9000,4800,2335,237,80,Europe
+364,5,1210,6700,2950,199,80,Europe
+300,4,1460,6700,3250,218,80,Europe
+446,4,9100,6700,1850,138,80,Japan
+409,4,8500,0,1835,173,80,Europe
+338,4,9700,6700,2145,180,80,Japan
+298,4,8900,6200,1845,153,80,Europe
+327,6,1680,1320,2910,114,80,Japan
+237,3,7000,1000,2420,125,80,Japan
+350,4,1220,8800,2500,151,80,Europe
+236,4,1400,0,2905,143,80,US
+324,4,1070,7200,2290,170,80,Japan
+272,4,1350,8400,2490,157,81,US
+266,4,1510,8400,2635,164,81,US
+258,4,1560,9200,2620,144,81,US
+235,6,1730,1100,2725,126,81,US
+300,4,1350,8400,2385,129,81,US
+391,4,7900,5800,1755,169,81,Japan
+390,4,8600,6400,1875,164,81,US
+351,4,8100,6000,1760,161,81,Japan
+323,4,9700,6700,2065,178,81,Japan
+370,4,8500,6500,1975,194,81,Japan
+377,4,8900,6200,2050,173,81,Japan
+341,4,9100,6800,1985,160,81,Japan
+347,4,1050,6300,2215,149,81,US
+344,4,9800,6500,2045,162,81,US
+299,4,9800,6500,2380,207,81,US
+330,4,1050,7400,2190,142,81,Europe
+345,4,1000,0,2320,158,81,Europe
+337,4,1070,7500,2210,144,81,Japan
+324,4,1080,7500,2350,168,81,Japan
+329,4,1190,1000,2615,148,81,Japan
+316,4,1200,7400,2635,183,81,Japan
+281,4,1410,8000,3230,204,81,Europe
+0,4,1210,1100,2800,154,81,Europe
+307,6,1450,7600,3160,196,81,Europe
+254,6,1680,1160,2900,126,81,Japan
+242,6,1460,1200,2930,138,81,Japan
+224,6,2310,1100,3415,158,81,US
+266,8,3500,1050,3725,190,81,US
+202,6,2000,8800,3060,171,81,US
+176,6,2250,8500,3465,166,81,US
+280,4,1120,8800,2605,196,82,US
+270,4,1120,8800,2640,186,82,US
+340,4,1120,8800,2395,180,82,US
+310,4,1120,8500,2575,162,82,US
+290,4,1350,8400,2525,160,82,US
+270,4,1510,9000,2735,180,82,US
+240,4,1400,9200,2865,164,82,US
+230,4,1510,0,3035,205,82,US
+360,4,1050,7400,1980,153,82,Europe
+370,4,9100,6800,2025,182,82,Japan
+310,4,9100,6800,1970,176,82,Japan
+380,4,1050,6300,2125,147,82,US
+360,4,9800,7000,2125,173,82,US
+360,4,1200,8800,2160,145,82,Japan
+360,4,1070,7500,2205,145,82,Japan
+340,4,1080,7000,2245,169,82,Japan
+380,4,9100,6700,1965,150,82,Japan
+320,4,9100,6700,1965,157,82,Japan
+380,4,9100,6700,1995,162,82,Japan
+250,6,1810,1100,2945,164,82,US
+380,6,2620,8500,3015,170,82,US
+260,4,1560,9200,2585,145,82,US
+220,6,2320,1120,2835,147,82,US
+320,4,1440,9600,2665,139,82,Japan
+360,4,1350,8400,2370,130,82,US
+270,4,1510,9000,2950,173,82,US
+270,4,1400,8600,2790,156,82,US
+440,4,9700,5200,2130,246,82,Europe
+320,4,1350,8400,2295,116,82,US
+280,4,1200,7900,2625,186,82,US
+310,4,1190,8200,2720,194,82,US

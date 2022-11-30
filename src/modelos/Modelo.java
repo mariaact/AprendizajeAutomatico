@@ -14,6 +14,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import weka.classifiers.Classifier;
 import weka.classifiers.trees.J48;
+import weka.classifiers.trees.RandomForest; 
 import weka.core.Instances;
 import weka.core.converters.ConverterUtils;
 
@@ -39,14 +40,14 @@ public class Modelo {
     {
         try {
             // create J48
-            Classifier cls = new J48();
+            Classifier cls = new RandomForest();
 
             // train
             Instances inst = leerInstancias("./training_data/cars.arff");
             cls.buildClassifier(inst);
 
             // serialize model
-            ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("./models/objetoLMT-Cars.model"));
+            ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream("./models/objetoRandomForest-Cars.model"));
             oos.writeObject(cls);
             oos.flush();
             oos.close();
@@ -59,7 +60,7 @@ public class Modelo {
     public String aplicarModelo() {
         try{
             String[] valoresAtributos = {"US","Europe", "Japan"};
-            Classifier clasificador  = (Classifier) weka.core.SerializationHelper.read("./models/objetoLMT-Cars.model");
+            Classifier clasificador  = (Classifier) weka.core.SerializationHelper.read("./models/objetoRandomForest-Cars.model");
             Instances data = leerInstancias("./test_data/test.arff");
             return valoresAtributos[(int) clasificador.classifyInstance(data.instance(0))];
         }catch (Exception ex) {
