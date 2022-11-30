@@ -3,16 +3,20 @@
 Hecho por Pedro Bereilh, María Calvo Torres y Gonzalo Valdez Casis
 
 ## Pasos a realizar 
-- **Elegir el problema:** En nuestro caso decidimos buscar un dataset sobre información de coches sobre distintos modelos y características de cada uno. 
-- **Identificar la fuente de datos:** Decidimos utilizar una fuente de datos que contenia características sobre coches y sobre el país de origen de cada uno.
+
+- **Elegir el problema:** En nuestro caso decidimos buscar un dataset sobre información de coches sobre distintos modelos y características de cada uno.
+
+- **Identificar la fuente de datos:** Decidimos utilizar una fuente de datos en formato csv que contenia características sobre coches y sobre el país de origen de cada uno.
 
 ![](/images/Data.png)
 
-- **Identificar las características relevantes de los hechos:** En nuestro caso las características son varias como por ejemplo Modelo del coche, cilindrada, caballos y la característica mas importante que es pais de origen que puede ser US, Japan o Europe.
-- **Obtener un fichero .arff:** Le pasamos el fichero csv a weka que podemos observar en la carpeta data y lo convertimos en un arff. 
-- **Evaluar distintos algoritmos de aprendizaje automático con los datos obtenidos:** Evaluamos todos los algoritmos para estos datos de coches y el que mejor resultado nos dios es Random Forest. Como podemos ver en la imagen siguiente vemos el resultado del algoritmo que nos de un 87% de acierto acertando 339 de 406.
+- **Identificar las características relevantes de los hechos:** En nuestro caso las características son varias como por ejemplo Modelo del coche, cilindrada, caballos y la característica mas importante que es país de origen que puede ser US, Japan o Europe.
 
-![](/images/)
+- **Obtener un fichero .arff:** Le pasamos el fichero csv a weka que podemos observar en la carpeta data y lo convertimos en un arff. 
+
+- **Evaluar distintos algoritmos de aprendizaje automático con los datos obtenidos:** Evaluamos todos los algoritmos para estos datos de coches y el que mejor resultado nos dios es Random Forest. Como podemos ver en la imagen siguiente vemos el resultado del algoritmo que nos de un 87% de acierto acertando 354 de 406.
+
+![](/images/ResultadoAlgoritmo.PNG)
 
 
 ## Como ejecutar el programa 
