@@ -6,7 +6,7 @@ Hecho por Pedro Bereilh, María Calvo Torres y Gonzalo Valdez Casis
 
 - **Elegir el problema:** En nuestro caso decidimos buscar un dataset sobre información de coches sobre distintos modelos y características de cada uno.
 
-- **Identificar la fuente de datos:** Decidimos utilizar una fuente de datos en formato csv que contenia características sobre coches y sobre el país o continente de origen de cada uno.
+- **Identificar la fuente de datos:** Decidimos utilizar una fuente de datos en formato csv que contiene características sobre coches y sobre el país o continente de origen de cada uno.
 
 ![](/images/Data.png)
 
