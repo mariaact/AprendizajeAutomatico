@@ -38,7 +38,9 @@ Utilizamos el siguiente comando para ejecutar el jar y recibir una respuesta
 ```
 java -jar aprendizaje.jar
 ```
-La query que estamos utilizando para que el modelo encuentre la solución es: 270,4,9700,6000,1834,190,71,? que está en el fichero test.arff. Con el símbolo ? indicamos que ese es el campo que queremos que nos devuelva el resultado. Como vamos a poder ver a continuación el resultado tiene que dar EUROPE.  
+La query que estamos utilizando para que el modelo encuentre la solución es: 270,4,9700,6000,1834,190,71,?. Esta sentencia se encuentra en el fichero test.arff. 
+
+El símbolo ? indica que ese es el campo que queremos que nos devuelva el resultado. Como vamos a poder ver a continuación el resultado es "Europe".  
 
 Para comprobar otra consulta, podemos cambiar este fichero modificando la query con otros valores y así comprobar que el modelo te devuelve otro país de origen y así poder confirmar que funciona correctamente. 
  
