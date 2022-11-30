@@ -19,7 +19,7 @@ public class Principal{
     public static void main(String[] args) {
         Modelo modelo = new Modelo();
         modelo.aprenderModelo();
-        System.out.println("El clasificador con RandomSubSpace obtiene: " + modelo.aplicarModelo());
+        System.out.println("El clasificador con RandomForest obtiene: " + modelo.aplicarModelo());
     }
 
     
