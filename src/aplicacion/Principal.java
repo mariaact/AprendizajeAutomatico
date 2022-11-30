@@ -22,4 +22,5 @@ public class Principal{
         System.out.println("El clasificador con RandomSubSpace obtiene: " + modelo.aplicarModelo());
     }
 
+    
 }
